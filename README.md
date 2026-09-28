@@ -90,14 +90,18 @@ appear in this section with its origin noted.
 
 ## 🔧 Open tools
 
-No tool code is vendored in this repo yet. Potential integrations below are
-future candidates only; no implementation is claimed as available here:
+No tool code is vendored in this repo yet. Generic, publishable pieces from
+Rajon's work live with the sibling repo / hub (per the inventory's target
+mapping) and are linked, not copied:
 
-- **Potential retrieval candidate:** `sovereign-study-commons-india` may be
-  reviewed for a future evidence-gated retrieval integration relevant to CSE
-  GS/S&T. No implementation or verified public link is included here.
-- **Potential CI candidate:** `truthgate` is listed for possible future claim
-  verification; its tool code has not been included here.
+- **Evidence-gated retrieval** (`sovereign-study-commons-india`: SQLite FTS5 +
+  concept graph + evidence gate) — published as the reference implementation
+  in `awesome-electrical-exams` (inventory: `publish code`, target =
+  electrical). Relevant to CSE GS/S&T study as a pattern; see that repo when
+  it is public.
+- **Claim verification** (`truthgate`: deterministic claim auditor) —
+  inventory target includes this repo as a CI gate; wired in when tool code
+  lands here.
 
 Explicitly **not** included: the paid evaluator bot's core (`bot.py`,
 `evaluator.py`, topper database), topper copies, coaching notes, lecture
@@ -110,8 +114,8 @@ transcripts. Links only, never copies.
 - [awesome-indian-exams](https://github.com/lakhidas168-ship-it/awesome-indian-exams) —
   the hub repo with per-exam pages for all Indian competitive exams (the CSE
   page is linked in the table above).
-- [awesome-electrical-exams](https://github.com/lakhidas168-ship-it/awesome-electrical-exams) —
-  public sibling for GATE EE, ESE and JE resources; includes AIR10 exam tool source.
+- `awesome-electrical-exams` (sibling local repo, not yet pushed) — shares the
+  ESE GS overlap and the open study tools referenced above.
 
 ---
 
