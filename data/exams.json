@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "awesome-upsc-cse exam registry",
+  "provenance": "official_public",
+  "checked": "2026-09-28",
+  "exams": [
+    {
+      "id": "upsc-cse",
+      "name": "UPSC Civil Services Examination",
+      "stages": ["prelims", "mains", "interview"],
+      "official_home": "https://www.upsc.gov.in/",
+      "notification_via": "https://www.upsc.gov.in/ (examinations section, yearly notification with syllabus annexure)",
+      "previous_papers": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "hub_page": "https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/exams/upsc/upsc-cse.md",
+      "mains_papers": ["essay", "gs1", "gs2", "gs3", "gs4", "optional1", "optional2"],
+      "qualifying_papers": ["indian_language", "english", "csat"]
+    }
+  ]
+}
