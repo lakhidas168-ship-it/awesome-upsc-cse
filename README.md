@@ -121,8 +121,8 @@ transcripts. Links only, never copies.
 
 | Content type | License |
 |--------------|---------|
-| Code (`scripts/`) | [MIT](LICENSE.md) |
-| Text (README, docs, resources) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Code (`scripts/`) | [AGPL-3.0](LICENSE.md) |
+| Text (README, docs, resources) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): free for every student, no commercial use |
 
 ## 🤝 Contributing
 
