@@ -1,0 +1,437 @@
+{
+  "repo": "awesome-upsc-cse",
+  "generated": "2026-09-30T02:20:52",
+  "generator": "topper-updater (deterministic)",
+  "taxonomy": "~/.air10/exam_repos/TAXONOMY.md",
+  "sources": {
+    "topper_manifest": {
+      "path": "teamwork_projects/toppers_archive_mojit/toppers_4027_manifest.json",
+      "sha256": "27cbc02110a0365d40a1ba17e3f5d5d1cb26b6914976fd8284434e0df36f8649",
+      "declared_count": 4027
+    },
+    "pyq_canon_verified": {
+      "path": ".air10/startup_data/pyq_canon_verified.jsonl",
+      "sha256": "10a835525cfb3305018fd1a7a76962fdaf4636007c3a9c919854953e1a027c7e"
+    },
+    "rubric": {
+      "path": ".air10/startup_data/rubric.jsonl",
+      "sha256": "fc8b98f63c6ef02e543a58695e8540558743f46ff15e618d5faa95846d5797a6"
+    }
+  },
+  "files": {
+    "README.md": {
+      "sha256": "f7416164569b7050a3b7ec30e45d68c47c3a9fb3e65bea7b177db7a44adb6043",
+      "sources": [
+        "readme_index"
+      ]
+    },
+    "strategy/README.md": {
+      "sha256": "3bf50d1e84785265205680edba1e2ffaa7170f0727facb963c9dd3112eaa6036",
+      "sources": [
+        "strategy_index"
+      ]
+    },
+    "strategy/upsc-cse/answer-writing.md": {
+      "sha256": "ce448619bc6d0a20ec2d3b6b141a3270f034b058ef8cf98604de60a40c8b3de6",
+      "sources": [
+        "rubric_dataset"
+      ]
+    },
+    "strategy/upsc-cse/optional.md": {
+      "sha256": "1cdeec25c793791e052f0ae3035720b9438cf7ebcdf0bc091cbe39127c92d1f9",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "strategy/upsc-cse/topic-trends.md": {
+      "sha256": "8547f204da33e80f569b26c186ee4e6dae078ecf9d32f3f181d5e15f3b752092",
+      "sources": [
+        "pyq_canon_verified"
+      ]
+    },
+    "toppers/README.md": {
+      "sha256": "62bf3d77745c2e6337166b31adf43d3b96d5b34c4252bb8e70fdcdcaab191750",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "toppers/upsc-cse/2013/essay.md": {
+      "sha256": "d6726274f63372b881647a845e11fa0cd1a1b6d806e839d786ada21af69b5c51",
+      "sources": [
+        "topper_manifest:2013/Essay"
+      ]
+    },
+    "toppers/upsc-cse/2013/general-studies.md": {
+      "sha256": "3add529eaf71605519fbc893f467fa6981c2d27786e0eb6a3a191471829ed186",
+      "sources": [
+        "topper_manifest:2013/General Studies"
+      ]
+    },
+    "toppers/upsc-cse/2014/essay.md": {
+      "sha256": "370ef0d0e4740ec2501ec506ebc65ec572c006fab83862ad9165e2bf34b46ee3",
+      "sources": [
+        "topper_manifest:2014/Essay"
+      ]
+    },
+    "toppers/upsc-cse/2014/general-studies.md": {
+      "sha256": "eb1c019cf63a14034f341e12d91c25bfa4c699198a8f697b31e51032e4c9e5de",
+      "sources": [
+        "topper_manifest:2014/General Studies"
+      ]
+    },
+    "toppers/upsc-cse/2014/philosophy.md": {
+      "sha256": "56f286d58d821f5a9825b38da00e5875e7d7747e9a516588f47a59bc47a85d6c",
+      "sources": [
+        "topper_manifest:2014/Philosophy"
+      ]
+    },
+    "toppers/upsc-cse/2014/psychology.md": {
+      "sha256": "bee6e742c679e1ab34ee9bedfd70423793741a6c3d77aad71707bcf92ba86888",
+      "sources": [
+        "topper_manifest:2014/Psychology"
+      ]
+    },
+    "toppers/upsc-cse/2014/public-administration.md": {
+      "sha256": "866ead0bf66eaef9556eec1a14b056dba6401fa4491697bdc9c9e9c283da4df0",
+      "sources": [
+        "topper_manifest:2014/Public Administration"
+      ]
+    },
+    "toppers/upsc-cse/2014/sociology.md": {
+      "sha256": "222d2af9365b64c698ec6127bf9ecca33b5fa9a4706841d64cf0ac8a6ac26027",
+      "sources": [
+        "topper_manifest:2014/Sociology"
+      ]
+    },
+    "toppers/upsc-cse/2015/essay.md": {
+      "sha256": "6e6cb98df069393d6fb4cbc489a6eeaa9b2e8f9986ee437db69c9748168f8b15",
+      "sources": [
+        "topper_manifest:2015/Essay"
+      ]
+    },
+    "toppers/upsc-cse/2015/general-studies.md": {
+      "sha256": "f23ca332ba82486cdd8898b24c82a6a6d993f0be5493067db2e1f77cf60768f7",
+      "sources": [
+        "topper_manifest:2015/General Studies"
+      ]
+    },
+    "toppers/upsc-cse/2015/public-administration.md": {
+      "sha256": "de1da0a17f98be9f324963361e7f5fd174d937a0a1a8f498e4b9357a8f38ff28",
+      "sources": [
+        "topper_manifest:2015/Public Administration"
+      ]
+    },
+    "toppers/upsc-cse/2015/sociology.md": {
+      "sha256": "97a7a7a8cd6e27a903231f84ae9ab1bca9fc1dad5246a03a6ecf738e27e95d1d",
+      "sources": [
+        "topper_manifest:2015/Sociology"
+      ]
+    },
+    "toppers/upsc-cse/2016/essay.md": {
+      "sha256": "9feb2c2f6e41de4ed547f388c548698b134132f287bc783975afae75bb427d2b",
+      "sources": [
+        "topper_manifest:2016/Essay"
+      ]
+    },
+    "toppers/upsc-cse/2016/ethics.md": {
+      "sha256": "7392d9d5c41ab24f88c4eec4264cc3f6d82181662728fbeff01d19a80a470cca",
+      "sources": [
+        "topper_manifest:2016/Ethics"
+      ]
+    },
+    "toppers/upsc-cse/2016/general-studies.md": {
+      "sha256": "900d1c45c1dd10812df92eca8315e23930a54f54a628b596a90528b80de37fe9",
+      "sources": [
+        "topper_manifest:2016/General Studies"
+      ]
+    },
+    "toppers/upsc-cse/2016/philosophy.md": {
+      "sha256": "3690be10454396119b21161b36222f901ec53e4096d2e08f8a826ba2be9a7529",
+      "sources": [
+        "topper_manifest:2016/Philosophy"
+      ]
+    },
+    "toppers/upsc-cse/2016/sociology.md": {
+      "sha256": "d7396c48359f33a3872b65c26963d2ba9078c8d7aed82a6184c3f8fb78a1d915",
+      "sources": [
+        "topper_manifest:2016/Sociology"
+      ]
+    },
+    "toppers/upsc-cse/2017/essay.md": {
+      "sha256": "af3a4e4cb329b7060611a35606af4c253395b40c7556e8b96a382679a643ec8d",
+      "sources": [
+        "topper_manifest:2017/Essay"
+      ]
+    },
+    "toppers/upsc-cse/2017/ethics.md": {
+      "sha256": "e1a34474f837e69768b74207233090761202c577d652cb75f21a15f8d5cf1b16",
+      "sources": [
+        "topper_manifest:2017/Ethics"
+      ]
+    },
+    "toppers/upsc-cse/2017/general-studies.md": {
+      "sha256": "c5980f0e9495b5e29c3d9c971d6a9530ee080b0ed89fddbf455767a221f6e183",
+      "sources": [
+        "topper_manifest:2017/General Studies"
+      ]
+    },
+    "toppers/upsc-cse/2017/geography.md": {
+      "sha256": "b310be5bb8332da7a1df89bc1397b60e72b1e6c726c3890e5db7db13cf5f9fdd",
+      "sources": [
+        "topper_manifest:2017/Geography"
+      ]
+    },
+    "toppers/upsc-cse/2017/sociology.md": {
+      "sha256": "30d0ac108120a0818aa14e16157a2daf101097023d9281a0e02107b205fad819",
+      "sources": [
+        "topper_manifest:2017/Sociology"
+      ]
+    },
+    "toppers/upsc-cse/2018/essay.md": {
+      "sha256": "683d2683bd7ad584e423b295ef4064e739bbe3a95b454a43234e013cda8603d3",
+      "sources": [
+        "topper_manifest:2018/Essay"
+      ]
+    },
+    "toppers/upsc-cse/2018/ethics.md": {
+      "sha256": "e809896335234584eca22178250729ad0aafc9d02ccc3285aef0fa6921c56a50",
+      "sources": [
+        "topper_manifest:2018/Ethics"
+      ]
+    },
+    "toppers/upsc-cse/2018/general-studies.md": {
+      "sha256": "f298122909ab50ca9a08b24571897acb5f6dd95c22aee7926831c75219645a45",
+      "sources": [
+        "topper_manifest:2018/General Studies"
+      ]
+    },
+    "toppers/upsc-cse/2018/sociology.md": {
+      "sha256": "6ce08cf62495cc60b8604728ada1603fc161d36b1c8f4d6d5d126f71b0c659e0",
+      "sources": [
+        "topper_manifest:2018/Sociology"
+      ]
+    },
+    "toppers/upsc-cse/2019/essay.md": {
+      "sha256": "634a86e39d6fd5fc765be35f7305446ada0b00998fc2b88495f778b92865ad04",
+      "sources": [
+        "topper_manifest:2019/Essay"
+      ]
+    },
+    "toppers/upsc-cse/2019/ethics.md": {
+      "sha256": "2334069ec3aa8e9efeb4adf59b72e8fc86bb0b2473b3632e6ce4531460ad6564",
+      "sources": [
+        "topper_manifest:2019/Ethics"
+      ]
+    },
+    "toppers/upsc-cse/2019/general-studies.md": {
+      "sha256": "a21db7456b46494ce374cfa4f1b51f2b7b0ad02a43d349fe0787bc122154b563",
+      "sources": [
+        "topper_manifest:2019/General Studies"
+      ]
+    },
+    "toppers/upsc-cse/2019/sociology.md": {
+      "sha256": "45dfe04bcb71ebe827ac072b182ef832e20bf758676fd1ab39544dc924d8cca2",
+      "sources": [
+        "topper_manifest:2019/Sociology"
+      ]
+    },
+    "toppers/upsc-cse/2020/essay.md": {
+      "sha256": "757da82053dccdc6dfaa4155a28ad77c5ffd33b3bdc0493e69841e964b55e7d4",
+      "sources": [
+        "topper_manifest:2020/Essay"
+      ]
+    },
+    "toppers/upsc-cse/2020/ethics.md": {
+      "sha256": "9d8a1b53fdc16656b65cb35d3a9a44a375a4ab4d4f816b9f2692f97a3d831adc",
+      "sources": [
+        "topper_manifest:2020/Ethics"
+      ]
+    },
+    "toppers/upsc-cse/2020/general-studies.md": {
+      "sha256": "fec878be1fdd1288eee92c3daef61b742710d91d16572c974334f7aaeadff96b",
+      "sources": [
+        "topper_manifest:2020/General Studies"
+      ]
+    },
+    "toppers/upsc-cse/2020/sociology.md": {
+      "sha256": "c92c1425e92c49f38c271a101784af5484601633a43cf3e65cb58e55d241a2d3",
+      "sources": [
+        "topper_manifest:2020/Sociology"
+      ]
+    },
+    "toppers/upsc-cse/2021/essay.md": {
+      "sha256": "e2b4c186b3d5c97bd68a764dfc0f09cc0f2497c514f4fb44aeb1df8d3712f169",
+      "sources": [
+        "topper_manifest:2021/Essay"
+      ]
+    },
+    "toppers/upsc-cse/2021/ethics.md": {
+      "sha256": "a9c9abfaaeb16f5f96e1ccfa167292e499de0afb3fef5bab127688d27213bf2a",
+      "sources": [
+        "topper_manifest:2021/Ethics"
+      ]
+    },
+    "toppers/upsc-cse/2021/general-studies.md": {
+      "sha256": "f026efa4bee0a89d91249ee6d1964d38a7b126dbb818a25e2261d64ee9d0a654",
+      "sources": [
+        "topper_manifest:2021/General Studies"
+      ]
+    },
+    "toppers/upsc-cse/2021/sociology.md": {
+      "sha256": "f9b6532404ea53fe1898513a1e2621d18a9b370bb950196212e99c80c4a70e38",
+      "sources": [
+        "topper_manifest:2021/Sociology"
+      ]
+    },
+    "toppers/upsc-cse/2022/essay.md": {
+      "sha256": "86dd3cf776a392177a05c758a81e6308a52918695af81a114c279dad5b59743d",
+      "sources": [
+        "topper_manifest:2022/Essay"
+      ]
+    },
+    "toppers/upsc-cse/2022/ethics.md": {
+      "sha256": "d2d5ffaece7acb2730f68ecf10e0034571a44aecd583cf8cff8e3a90e77e58f8",
+      "sources": [
+        "topper_manifest:2022/Ethics"
+      ]
+    },
+    "toppers/upsc-cse/2022/general-studies.md": {
+      "sha256": "96e7ae919f1b1adf59cc0abc2f260f7fb6d3c164d522fd9d0ca5caec47e11c63",
+      "sources": [
+        "topper_manifest:2022/General Studies"
+      ]
+    },
+    "toppers/upsc-cse/2022/sociology.md": {
+      "sha256": "2a844e799a53beca292658964c6a9e8046824c9dbceb055f57dacf6102bd1a32",
+      "sources": [
+        "topper_manifest:2022/Sociology"
+      ]
+    },
+    "toppers/upsc-cse/2023/essay.md": {
+      "sha256": "1fd02c122d3b45f9be86a586a509196da26990bd5136b9c653f202df1ee784e0",
+      "sources": [
+        "topper_manifest:2023/Essay"
+      ]
+    },
+    "toppers/upsc-cse/2023/ethics.md": {
+      "sha256": "3e2bf83bdbc6f5204b496329b3d947962d10cefec9330a254e54d71cf98091cb",
+      "sources": [
+        "topper_manifest:2023/Ethics"
+      ]
+    },
+    "toppers/upsc-cse/2023/general-studies.md": {
+      "sha256": "21ffb018041ccf7cb1dc1fdfa71b8c94a3a1a2d325fa30bfa146390a0156505e",
+      "sources": [
+        "topper_manifest:2023/General Studies"
+      ]
+    },
+    "toppers/upsc-cse/2023/sociology.md": {
+      "sha256": "6125e5fb889df790abfe2b6cf845d1d6a47a8ca0a434f329e3d457913549f1a5",
+      "sources": [
+        "topper_manifest:2023/Sociology"
+      ]
+    },
+    "toppers/upsc-cse/2024/essay.md": {
+      "sha256": "cb4d673facd3189b4b4c65382bccce2d5a0683afdccdbb8e6f68f6072de5b74e",
+      "sources": [
+        "topper_manifest:2024/Essay"
+      ]
+    },
+    "toppers/upsc-cse/2024/ethics.md": {
+      "sha256": "5b987a7801112146881a071aa1d3fdfc4ca118c6cf70345664a05aabb3317667",
+      "sources": [
+        "topper_manifest:2024/Ethics"
+      ]
+    },
+    "toppers/upsc-cse/2024/general-studies.md": {
+      "sha256": "e1bf724b7cff9a77f7f024a736e414ed5a4902cb1c368b38b74065d3046b3950",
+      "sources": [
+        "topper_manifest:2024/General Studies"
+      ]
+    },
+    "toppers/upsc-cse/2024/sociology.md": {
+      "sha256": "d5007d42d8a562a51a2fa645161b18c54d9806324fb6524aef709b56488a63bd",
+      "sources": [
+        "topper_manifest:2024/Sociology"
+      ]
+    },
+    "toppers/upsc-cse/2025/anthropology.md": {
+      "sha256": "6abaf323e2ac0116d0489c63a9304ecf382154ba56eaed99bd1662edbd53b3ee",
+      "sources": [
+        "topper_manifest:2025/Anthropology"
+      ]
+    },
+    "toppers/upsc-cse/2025/essay.md": {
+      "sha256": "4168da8f4a8a99f1bd2d5dd35dce8e919ba94b620eaca6a923b7499bb2b62d67",
+      "sources": [
+        "topper_manifest:2025/Essay"
+      ]
+    },
+    "toppers/upsc-cse/2025/ethics.md": {
+      "sha256": "f3350fc0ff7fec4278521c67a91be4c114cca271fd30c4b604ade7bff18e43dd",
+      "sources": [
+        "topper_manifest:2025/Ethics"
+      ]
+    },
+    "toppers/upsc-cse/2025/general-studies-ii.md": {
+      "sha256": "b45fd43816eabd360874bf60f5f10bb925145369a793def27f088bc9a6a77e37",
+      "sources": [
+        "topper_manifest:2025/General Studies - II"
+      ]
+    },
+    "toppers/upsc-cse/2025/general-studies-iii.md": {
+      "sha256": "7c14ab687929aae75f42c9cf983286c2b8149ad284eefec01f6f2078735b00e2",
+      "sources": [
+        "topper_manifest:2025/General Studies - III"
+      ]
+    },
+    "toppers/upsc-cse/2025/general-studies.md": {
+      "sha256": "190cc7757f198f0ccdbf4d6c395f93be8a317c44ac364561a3b13ffd9d975c34",
+      "sources": [
+        "topper_manifest:2025/General Studies"
+      ]
+    },
+    "toppers/upsc-cse/2025/history-ii.md": {
+      "sha256": "30f54129819b9f0d7025251f2da04115ea8c07c5a8d58e2bd745309e67dbd5f0",
+      "sources": [
+        "topper_manifest:2025/History II"
+      ]
+    },
+    "toppers/upsc-cse/2025/history.md": {
+      "sha256": "9eaac27de161a4060578b8ddcf661ae7de58b111c914c33251723ce736a6b47a",
+      "sources": [
+        "topper_manifest:2025/History"
+      ]
+    },
+    "toppers/upsc-cse/2025/mathematics-ii.md": {
+      "sha256": "ca05a8325595a1912c453f112a965d302c7f6c82456c7b3515adb1afdbf6db23",
+      "sources": [
+        "topper_manifest:2025/Mathematics II"
+      ]
+    },
+    "toppers/upsc-cse/2025/mathematics.md": {
+      "sha256": "701dadcf856c97588a2d9f917dcd8fe9a6bc3a1434072b1604714646a15862a8",
+      "sources": [
+        "topper_manifest:2025/Mathematics"
+      ]
+    },
+    "toppers/upsc-cse/2025/psir-i.md": {
+      "sha256": "09e8ea6f5d61c657eafc01cae1f3193e191a9cf40c56cf2c9567ba91256a8038",
+      "sources": [
+        "topper_manifest:2025/PSIR I"
+      ]
+    },
+    "toppers/upsc-cse/2025/psir-ii.md": {
+      "sha256": "20a56807b90c9623a81b25b3309c93e3575042609d5be0272bba6645b07dbced",
+      "sources": [
+        "topper_manifest:2025/PSIR II"
+      ]
+    },
+    "toppers/upsc-cse/2025/sociology.md": {
+      "sha256": "8824da57e4657e9d763aa18016f84a4ca6479642126b6d4fff3a9c355c6b8f25",
+      "sources": [
+        "topper_manifest:2025/Sociology"
+      ]
+    }
+  }
+}

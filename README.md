@@ -134,3 +134,12 @@ link to official sources, never copy coaching material, never invent numbers.
 ---
 
 *Maintained by Rajon Das.*
+
+---
+
+<!-- topper-updater:upsc:begin -->
+## 🧾 Topper-copy citations & strategy
+
+- [toppers/](toppers/README.md) — citation index of public UPSC Mains topper answer copies (name · rank · medium · source link; never the copy).
+- [strategy/](strategy/README.md) — our own distilled analysis: answer-writing (from grading rubrics), verified-question topic trends, optional coverage.
+<!-- topper-updater:upsc:end -->
