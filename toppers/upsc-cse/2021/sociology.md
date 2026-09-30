@@ -38,4 +38,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 27 | Atulesh Jha | 131 | English | [booklet #1649](https://cdn.visionias.in/toppersanswerbooklet/63fde-77867_1999_atulesh-jha_rank131.pdf) |
 | 28 | Atulesh Jha | 131 | English | [booklet #1650](https://cdn.visionias.in/toppersanswerbooklet/cf518-77867_2000_atulesh-jha_rank131.pdf) |
 
-_Citation rows: 28. Generated 2026-09-30 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 28. Generated 2026-10-01 from the public topper answer-booklet manifest (metadata only)._

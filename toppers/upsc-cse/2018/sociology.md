@@ -17,4 +17,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 6 | Sanya Chhabra | 84 | English | [booklet #678](https://cdn.visionias.in/toppersanswerbooklet/d6f21-399525_1210_sanya_chhabra_rank_84.pdf) |
 | 7 | Sanya Chhabra | 84 | English | [booklet #679](https://cdn.visionias.in/toppersanswerbooklet/01eb0-399525_1209_sanya_chhabra_rank_84.pdf) |
 
-_Citation rows: 7. Generated 2026-09-30 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 7. Generated 2026-10-01 from the public topper answer-booklet manifest (metadata only)._

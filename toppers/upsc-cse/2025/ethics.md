@@ -108,4 +108,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 97 | Mudita Agarwal | 198 | English | [booklet #3965](https://cdn.visionias.in/toppersanswerbooklet/0c77f-1158344_2931_mudita-agarwal_rank_198.pdf) |
 | 98 | Rahul Sehkhar | 4513 | English | [booklet #3857](https://cdn.visionias.in/toppersanswerbooklet/8a3fc-1497703_4513_rahul_shekhar_rank_75.pdf) |
 
-_Citation rows: 98. Generated 2026-09-30 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 98. Generated 2026-10-01 from the public topper answer-booklet manifest (metadata only)._

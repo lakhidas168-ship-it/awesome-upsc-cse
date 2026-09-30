@@ -11,4 +11,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 |---|--------|------|--------|------------------|
 | 1 | Aakash Om Trivedi | 73 | English | [booklet #3873](https://cdn.visionias.in/toppersanswerbooklet/96cbf-1142925_3125_aakash_om_trivedi_rank_73.pdf) |
 
-_Citation rows: 1. Generated 2026-09-30 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 1. Generated 2026-10-01 from the public topper answer-booklet manifest (metadata only)._

@@ -17,4 +17,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 6 | Neha Bandhu | 121 | English | [booklet #1061](https://cdn.visionias.in/toppersanswerbooklet/1e3cb-171485_1211_neha-bandhu_rank_121pdf.pdf) |
 | 7 | Neha Bandhu | 121 | English | [booklet #1062](https://cdn.visionias.in/toppersanswerbooklet/5f593-171485_1212_neha-bandhu_rank_121.pdf) |
 
-_Citation rows: 7. Generated 2026-09-30 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 7. Generated 2026-10-01 from the public topper answer-booklet manifest (metadata only)._

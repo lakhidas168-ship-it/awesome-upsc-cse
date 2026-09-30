@@ -16,4 +16,4 @@ Which UPSC Mains **optional subjects** have publicly posted topper copies in the
 
 See [`toppers/`](../../toppers/) for the row-level citations.
 
-_Generated 2026-09-30 from the public topper manifest._
+_Generated 2026-10-01 from the public topper manifest._

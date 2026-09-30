@@ -27,4 +27,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 16 | Ashutosh Kumar | 77 | English | [booklet #1752](https://cdn.visionias.in/toppersanswerbooklet/1714f-657129_1752_ashutosh-kumar_rank_77.pdf) |
 | 17 | Surbhi Goyal | 78 | English | [booklet #1763](https://cdn.visionias.in/toppersanswerbooklet/044b8-578542_1992_surbhi-goyal_rank_78.pdf) |
 
-_Citation rows: 17. Generated 2026-09-30 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 17. Generated 2026-10-01 from the public topper answer-booklet manifest (metadata only)._

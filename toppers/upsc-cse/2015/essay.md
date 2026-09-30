@@ -26,4 +26,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 15 | CHARCHIT | 96 | English | [booklet #175](https://cdn.visionias.in/toppersanswerbooklet/96_Charchit_16823_607_Essay.pdf) |
 | 16 | HARSH CHIRANIA | 100 | English | [booklet #177](https://cdn.visionias.in/toppersanswerbooklet/100_Harsh%20Chirania_5197_607_Essay.pdf) |
 
-_Citation rows: 16. Generated 2026-09-30 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 16. Generated 2026-10-01 from the public topper answer-booklet manifest (metadata only)._

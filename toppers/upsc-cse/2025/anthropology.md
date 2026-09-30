@@ -14,4 +14,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 3 | Harsh Nehara | 74 | English | [booklet #3868](https://cdn.visionias.in/toppersanswerbooklet/30c0a-1387488_4521_harsh_nehara_rank_74.pdf) |
 | 4 | Harsh Nehara | 74 | English | [booklet #3869](https://cdn.visionias.in/toppersanswerbooklet/a2bd9-1387488_4522_harsh_nehara_rank_74.pdf) |
 
-_Citation rows: 4. Generated 2026-09-30 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 4. Generated 2026-10-01 from the public topper answer-booklet manifest (metadata only)._

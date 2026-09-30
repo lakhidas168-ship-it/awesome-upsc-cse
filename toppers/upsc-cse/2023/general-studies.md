@@ -348,4 +348,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 337 | NEERAJ SONGARA | 964 | Hindi | [booklet #2595](https://cdn.visionias.in/toppersanswerbooklet/12f24-1447625_2419_neeraj_songara_964.pdf) |
 | 338 | NEERAJ SONGARA | 964 | Hindi | [booklet #2596](https://cdn.visionias.in/toppersanswerbooklet/9d9ad-1447625_2423_neeraj_songara_964.pdf) |
 
-_Citation rows: 338. Generated 2026-09-30 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 338. Generated 2026-10-01 from the public topper answer-booklet manifest (metadata only)._

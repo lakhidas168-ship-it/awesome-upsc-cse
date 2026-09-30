@@ -14,4 +14,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 3 | M N Harendhira Prasad | 93 | English | [booklet #87](https://cdn.visionias.in/toppersanswerbooklet/10657-mn-harendhira_93_2014_psychology_booklet_3.pdf) |
 | 4 | M N Harendhira Prasad | 93 | English | [booklet #88](https://cdn.visionias.in/toppersanswerbooklet/18401-mn-harendhira_93_2014_psychology_booklet_4.pdf) |
 
-_Citation rows: 4. Generated 2026-09-30 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 4. Generated 2026-10-01 from the public topper answer-booklet manifest (metadata only)._

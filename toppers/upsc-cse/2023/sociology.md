@@ -62,4 +62,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 51 | NEETI AGARWAL | 383 | English | [booklet #3160](https://cdn.visionias.in/toppersanswerbooklet/9617b-636519_2300_neeti_agrawal.pdf) |
 | 52 | NEETI AGARWAL | 383 | English | [booklet #3161](https://cdn.visionias.in/toppersanswerbooklet/b103f-636519_2302_neeti_agrawal.pdf) |
 
-_Citation rows: 52. Generated 2026-09-30 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 52. Generated 2026-10-01 from the public topper answer-booklet manifest (metadata only)._

@@ -13,4 +13,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 2 | Prabhat Malik | 68 | English | [booklet #73](https://cdn.visionias.in/toppersanswerbooklet/79dbc-prabhat-malik_68_2014_public_administration_booklet_2.pdf) |
 | 3 | Prabhat Malik | 68 | English | [booklet #74](https://cdn.visionias.in/toppersanswerbooklet/48ecb-prabhat-malik_68_2014_public_administration_booklet_3.pdf) |
 
-_Citation rows: 3. Generated 2026-09-30 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 3. Generated 2026-10-01 from the public topper answer-booklet manifest (metadata only)._

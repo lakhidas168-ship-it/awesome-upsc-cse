@@ -16,4 +16,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 5 | ALANKRITA PANDEY | 85 | English | [booklet #164](https://cdn.visionias.in/toppersanswerbooklet/85_Alankrita%20Pandey_16791_667_PUB%20AD.pdf) |
 | 6 | ALANKRITA PANDEY | 85 | English | [booklet #165](https://cdn.visionias.in/toppersanswerbooklet/85_Alankrita%20Pandey_16791_668_PUB%20AD.pdf) |
 
-_Citation rows: 6. Generated 2026-09-30 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 6. Generated 2026-10-01 from the public topper answer-booklet manifest (metadata only)._
