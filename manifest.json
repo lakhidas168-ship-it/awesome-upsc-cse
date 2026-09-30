@@ -10,7 +10,7 @@
     },
     "pyq_canon_verified": {
       "path": ".air10/startup_data/pyq_canon_verified.jsonl",
-      "sha256": "bf39c7d8309ba469874d5252653e29a78635a2e7c9772066a3ae0e881c961cf4"
+      "sha256": "b07908053d525fb6ae166d179950937f92909df06505e25fff47d49c5daae494"
     },
     "rubric": {
       "path": ".air10/startup_data/rubric.jsonl",
@@ -43,7 +43,7 @@
       ]
     },
     "strategy/upsc-cse/topic-trends.md": {
-      "sha256": "ee038847cc3a06d2c6211a3b12f3c5a4c1119cd4c3ea4e0b244e236f3cde4130",
+      "sha256": "0288c13e0c3ca0d4adcd2b46b13077e1e4a02d396dbb377abbf6aa424b9c84d9",
       "sources": [
         "pyq_canon_verified"
       ]

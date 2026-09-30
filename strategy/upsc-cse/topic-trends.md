@@ -1,6 +1,6 @@
 # Topic trends — verified UPSC Mains question set
 
-Our own frequency analysis of **463 verified official Mains questions** (each confirmed independently against the question paper). Counts below are derived from that set only.
+Our own frequency analysis of **466 verified official Mains questions** (each confirmed independently against the question paper). Counts below are derived from that set only.
 
 ## Questions verified, by year and paper
 
@@ -8,6 +8,7 @@ Our own frequency analysis of **463 verified official Mains questions** (each co
 |------|-------|----------:|
 | 2016 | GS1 | 3 |
 | 2017 | GS1 | 20 |
+| 2017 | GS3 | 3 |
 | 2017 | GS4 | 19 |
 | 2018 | ESSAY | 4 |
 | 2018 | GS1 | 20 |
@@ -45,8 +46,8 @@ A crude but honest proxy for recurring themes: the most frequent content words a
 
 - **ethical** — appears in 39 verified questions
 - **government** — appears in 31 verified questions
+- **measures** — appears in 29 verified questions
 - **public** — appears in 29 verified questions
-- **measures** — appears in 28 verified questions
 - **issues** — appears in 28 verified questions
 - **development** — appears in 28 verified questions
 - **role** — appears in 27 verified questions
@@ -55,11 +56,11 @@ A crude but honest proxy for recurring themes: the most frequent content words a
 - **civil** — appears in 25 verified questions
 - **society** — appears in 23 verified questions
 - **suitable** — appears in 22 verified questions
-- **life** — appears in 21 verified questions
+- **life** — appears in 22 verified questions
 - **system** — appears in 21 verified questions
+- **suggest** — appears in 20 verified questions
 - **security** — appears in 20 verified questions
 - **national** — appears in 20 verified questions
-- **suggest** — appears in 19 verified questions
 - **human** — appears in 19 verified questions
 - **taken** — appears in 19 verified questions
 - **situation** — appears in 18 verified questions
@@ -81,7 +82,7 @@ A crude but honest proxy for recurring themes: the most frequent content words a
 - **health** — appears in 14 verified questions
 - **education** — appears in 14 verified questions
 - **options** — appears in 14 verified questions
+- **economy** — appears in 13 verified questions
 - **climate** — appears in 13 verified questions
-- **growth** — appears in 13 verified questions
 
-_Generated 2026-09-30 from 463 verified questions._
+_Generated 2026-09-30 from 466 verified questions._
