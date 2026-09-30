@@ -76,8 +76,8 @@ A crude but honest proxy for recurring themes: the most frequent content words a
 - **recently** — appears in 16 verified questions
 - **process** — appears in 16 verified questions
 - **years** — appears in 16 verified questions
-- **officer** — appears in 15 verified questions
 - **reasons** — appears in 15 verified questions
+- **officer** — appears in 15 verified questions
 - **present** — appears in 15 verified questions
 - **view** — appears in 15 verified questions
 - **education** — appears in 15 verified questions
