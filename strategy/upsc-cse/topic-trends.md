@@ -1,6 +1,6 @@
 # Topic trends — verified UPSC Mains question set
 
-Our own frequency analysis of **494 verified official Mains questions** (each confirmed independently against the question paper). Counts below are derived from that set only.
+Our own frequency analysis of **506 verified official Mains questions** (each confirmed independently against the question paper). Counts below are derived from that set only.
 
 ## Questions verified, by year and paper
 
@@ -14,9 +14,10 @@ Our own frequency analysis of **494 verified official Mains questions** (each co
 | 2017 | GS4 | 19 |
 | 2018 | ESSAY | 4 |
 | 2018 | GS1 | 20 |
-| 2018 | GS3 | 1 |
+| 2018 | GS3 | 10 |
 | 2018 | GS4 | 13 |
 | 2019 | GS1 | 17 |
+| 2019 | GS2 | 3 |
 | 2020 | ESSAY | 8 |
 | 2020 | GS1 | 19 |
 | 2020 | GS2 | 15 |
@@ -48,45 +49,45 @@ Our own frequency analysis of **494 verified official Mains questions** (each co
 
 A crude but honest proxy for recurring themes: the most frequent content words across the verified question set. Use it to see which broad ideas keep returning, not as weightage.
 
-- **ethical** — appears in 40 verified questions
-- **government** — appears in 35 verified questions
-- **public** — appears in 33 verified questions
-- **measures** — appears in 33 verified questions
-- **development** — appears in 32 verified questions
-- **issues** — appears in 30 verified questions
+- **ethical** — appears in 45 verified questions
+- **measures** — appears in 38 verified questions
+- **public** — appears in 36 verified questions
+- **government** — appears in 36 verified questions
+- **development** — appears in 34 verified questions
+- **issues** — appears in 34 verified questions
+- **world** — appears in 33 verified questions
 - **role** — appears in 29 verified questions
-- **world** — appears in 28 verified questions
 - **social** — appears in 28 verified questions
+- **suggest** — appears in 26 verified questions
+- **taken** — appears in 25 verified questions
+- **suitable** — appears in 25 verified questions
 - **civil** — appears in 25 verified questions
-- **suggest** — appears in 24 verified questions
+- **security** — appears in 25 verified questions
 - **life** — appears in 24 verified questions
-- **suitable** — appears in 23 verified questions
 - **society** — appears in 23 verified questions
-- **security** — appears in 23 verified questions
-- **taken** — appears in 22 verified questions
-- **system** — appears in 22 verified questions
-- **challenges** — appears in 21 verified questions
+- **system** — appears in 23 verified questions
+- **challenges** — appears in 23 verified questions
+- **available** — appears in 21 verified questions
+- **situation** — appears in 21 verified questions
+- **country** — appears in 21 verified questions
+- **human** — appears in 20 verified questions
 - **national** — appears in 20 verified questions
-- **available** — appears in 19 verified questions
-- **situation** — appears in 19 verified questions
-- **country** — appears in 19 verified questions
-- **human** — appears in 19 verified questions
+- **options** — appears in 19 verified questions
+- **process** — appears in 19 verified questions
 - **impact** — appears in 18 verified questions
-- **options** — appears in 16 verified questions
+- **large** — appears in 18 verified questions
+- **years** — appears in 18 verified questions
+- **officer** — appears in 17 verified questions
+- **present** — appears in 17 verified questions
+- **view** — appears in 17 verified questions
+- **women** — appears in 17 verified questions
+- **against** — appears in 16 verified questions
+- **time** — appears in 16 verified questions
 - **recently** — appears in 16 verified questions
-- **process** — appears in 16 verified questions
-- **years** — appears in 16 verified questions
+- **recent** — appears in 16 verified questions
+- **international** — appears in 16 verified questions
+- **through** — appears in 16 verified questions
 - **reasons** — appears in 15 verified questions
-- **officer** — appears in 15 verified questions
-- **present** — appears in 15 verified questions
-- **view** — appears in 15 verified questions
-- **education** — appears in 15 verified questions
-- **recent** — appears in 15 verified questions
-- **women** — appears in 15 verified questions
-- **international** — appears in 15 verified questions
-- **global** — appears in 15 verified questions
-- **large** — appears in 15 verified questions
-- **health** — appears in 15 verified questions
-- **economic** — appears in 15 verified questions
+- **areas** — appears in 15 verified questions
 
-_Generated 2026-09-30 from 494 verified questions._
+_Generated 2026-09-30 from 506 verified questions._
