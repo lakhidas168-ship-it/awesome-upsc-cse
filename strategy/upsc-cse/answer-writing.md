@@ -1,15 +1,15 @@
 # Answer-writing — what a full-score UPSC Mains answer covers
 
-Our own distilled note, aggregated from **443 grading rubrics** we built for verified official Mains questions (GS1–GS4 and Essay). It states what the rubrics demand of an answer; it does not reproduce any topper's answer text.
+Our own distilled note, aggregated from **451 grading rubrics** we built for verified official Mains questions (GS1–GS4 and Essay). It states what the rubrics demand of an answer; it does not reproduce any topper's answer text.
 
 ## Coverage of the rubric set
 
 | Paper | Rubrics |
 |-------|--------:|
-| GS1 | 127 |
+| GS1 | 132 |
 | GS4 | 118 |
 | GS2 | 85 |
-| GS3 | 61 |
+| GS3 | 64 |
 | ESSAY | 52 |
 
 ## Dimensions per answer, by paper
@@ -19,11 +19,11 @@ Each rubric scores an answer on a set of *dimensions* (one distinct aspect per d
 | Paper | Rubrics | Min | Median | Max |
 |-------|--------:|----:|-------:|----:|
 | ESSAY | 52 | 6 | 7 | 8 |
-| GS1 | 127 | 5 | 6 | 14 |
+| GS1 | 132 | 5 | 6 | 14 |
 | GS2 | 85 | 5 | 6 | 16 |
-| GS3 | 61 | 5 | 6 | 8 |
+| GS3 | 64 | 5 | 6 | 8 |
 | GS4 | 118 | 4 | 6 | 15 |
-| **all** | **443** | **4** | **6** | **16** |
+| **all** | **451** | **4** | **6** | **16** |
 
 ## Structure a full-score answer needs
 
@@ -44,4 +44,4 @@ Across the whole rubric set a top answer is scored on **4–16 distinct dimensio
 
 Attempt the official Mains question paper for a topic, then check your answer against the dimensions above before moving on. A per-question rubric exists for every question in the verified set; the aggregated pattern is what is published here.
 
-_Generated 2026-09-30 from 443 rubrics (AIR10 answer-evaluator). Aggregates only._
+_Generated 2026-09-30 from 451 rubrics (AIR10 answer-evaluator). Aggregates only._

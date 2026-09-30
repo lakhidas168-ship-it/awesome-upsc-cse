@@ -1,6 +1,6 @@
 # Topic trends — verified UPSC Mains question set
 
-Our own frequency analysis of **466 verified official Mains questions** (each confirmed independently against the question paper). Counts below are derived from that set only.
+Our own frequency analysis of **467 verified official Mains questions** (each confirmed independently against the question paper). Counts below are derived from that set only.
 
 ## Questions verified, by year and paper
 
@@ -25,6 +25,7 @@ Our own frequency analysis of **466 verified official Mains questions** (each co
 | 2021 | GS3 | 19 |
 | 2021 | GS4 | 14 |
 | 2022 | ESSAY | 8 |
+| 2022 | GS1 | 1 |
 | 2022 | GS2 | 19 |
 | 2022 | GS3 | 20 |
 | 2022 | GS4 | 19 |
@@ -82,7 +83,7 @@ A crude but honest proxy for recurring themes: the most frequent content words a
 - **health** — appears in 14 verified questions
 - **education** — appears in 14 verified questions
 - **options** — appears in 14 verified questions
+- **against** — appears in 13 verified questions
 - **economy** — appears in 13 verified questions
-- **climate** — appears in 13 verified questions
 
-_Generated 2026-09-30 from 466 verified questions._
+_Generated 2026-09-30 from 467 verified questions._
