@@ -1,6 +1,6 @@
 # Topic trends — verified UPSC Mains question set
 
-Our own frequency analysis of **462 verified official Mains questions** (each confirmed independently against the question paper). Counts below are derived from that set only.
+Our own frequency analysis of **463 verified official Mains questions** (each confirmed independently against the question paper). Counts below are derived from that set only.
 
 ## Questions verified, by year and paper
 
@@ -11,6 +11,7 @@ Our own frequency analysis of **462 verified official Mains questions** (each co
 | 2017 | GS4 | 19 |
 | 2018 | ESSAY | 4 |
 | 2018 | GS1 | 20 |
+| 2018 | GS3 | 1 |
 | 2018 | GS4 | 13 |
 | 2019 | GS1 | 17 |
 | 2020 | ESSAY | 8 |
@@ -49,19 +50,19 @@ A crude but honest proxy for recurring themes: the most frequent content words a
 - **issues** — appears in 28 verified questions
 - **development** — appears in 28 verified questions
 - **role** — appears in 27 verified questions
+- **world** — appears in 26 verified questions
 - **social** — appears in 26 verified questions
-- **world** — appears in 25 verified questions
 - **civil** — appears in 25 verified questions
 - **society** — appears in 23 verified questions
 - **suitable** — appears in 22 verified questions
 - **life** — appears in 21 verified questions
 - **system** — appears in 21 verified questions
+- **security** — appears in 20 verified questions
 - **national** — appears in 20 verified questions
 - **suggest** — appears in 19 verified questions
-- **security** — appears in 19 verified questions
+- **human** — appears in 19 verified questions
+- **taken** — appears in 19 verified questions
 - **situation** — appears in 18 verified questions
-- **human** — appears in 18 verified questions
-- **taken** — appears in 18 verified questions
 - **challenges** — appears in 18 verified questions
 - **available** — appears in 18 verified questions
 - **impact** — appears in 17 verified questions
@@ -83,4 +84,4 @@ A crude but honest proxy for recurring themes: the most frequent content words a
 - **climate** — appears in 13 verified questions
 - **growth** — appears in 13 verified questions
 
-_Generated 2026-09-30 from 462 verified questions._
+_Generated 2026-09-30 from 463 verified questions._

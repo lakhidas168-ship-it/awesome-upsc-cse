@@ -1,6 +1,5 @@
 {
   "repo": "awesome-upsc-cse",
-  "generated": "2026-09-30T02:20:52",
   "generator": "topper-updater (deterministic)",
   "taxonomy": "~/.air10/exam_repos/TAXONOMY.md",
   "sources": {
@@ -11,11 +10,11 @@
     },
     "pyq_canon_verified": {
       "path": ".air10/startup_data/pyq_canon_verified.jsonl",
-      "sha256": "10a835525cfb3305018fd1a7a76962fdaf4636007c3a9c919854953e1a027c7e"
+      "sha256": "bf39c7d8309ba469874d5252653e29a78635a2e7c9772066a3ae0e881c961cf4"
     },
     "rubric": {
       "path": ".air10/startup_data/rubric.jsonl",
-      "sha256": "fc8b98f63c6ef02e543a58695e8540558743f46ff15e618d5faa95846d5797a6"
+      "sha256": "e39def3d9ccf28b499791badc576dada45c9c0ec86cfee98e8f24361936c335c"
     }
   },
   "files": {
@@ -32,7 +31,7 @@
       ]
     },
     "strategy/upsc-cse/answer-writing.md": {
-      "sha256": "ce448619bc6d0a20ec2d3b6b141a3270f034b058ef8cf98604de60a40c8b3de6",
+      "sha256": "7c72b48976f2eba9dbee440794982c2d6495bcdaf580376a93d569c786a7abbe",
       "sources": [
         "rubric_dataset"
       ]
@@ -44,7 +43,7 @@
       ]
     },
     "strategy/upsc-cse/topic-trends.md": {
-      "sha256": "8547f204da33e80f569b26c186ee4e6dae078ecf9d32f3f181d5e15f3b752092",
+      "sha256": "ee038847cc3a06d2c6211a3b12f3c5a4c1119cd4c3ea4e0b244e236f3cde4130",
       "sources": [
         "pyq_canon_verified"
       ]
