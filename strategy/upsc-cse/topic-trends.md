@@ -1,13 +1,13 @@
 # Topic trends — verified UPSC Mains question set
 
-Our own frequency analysis of **617 verified official Mains questions** (each confirmed independently against the question paper). Counts below are derived from that set only.
+Our own frequency analysis of **619 verified official Mains questions** (each confirmed independently against the question paper). Counts below are derived from that set only.
 
 ## Questions verified, by year and paper
 
 | Year | Paper | Questions |
 |------|-------|----------:|
 | 2013 | ESSAY | 24 |
-| 2013 | GS3 | 16 |
+| 2013 | GS3 | 18 |
 | 2013 | GS4 | 11 |
 | 2014 | GS3 | 20 |
 | 2015 | GS4 | 21 |
@@ -62,8 +62,8 @@ A crude but honest proxy for recurring themes: the most frequent content words a
 - **issues** — appears in 40 verified questions
 - **social** — appears in 40 verified questions
 - **world** — appears in 36 verified questions
+- **security** — appears in 32 verified questions
 - **suggest** — appears in 32 verified questions
-- **security** — appears in 31 verified questions
 - **role** — appears in 31 verified questions
 - **taken** — appears in 29 verified questions
 - **reasons** — appears in 28 verified questions
@@ -95,4 +95,4 @@ A crude but honest proxy for recurring themes: the most frequent content words a
 - **though** — appears in 20 verified questions
 - **policy** — appears in 20 verified questions
 
-_Generated 2026-10-01 from 617 verified questions._
+_Generated 2026-10-01 from 619 verified questions._
