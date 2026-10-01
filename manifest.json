@@ -10,11 +10,11 @@
     },
     "pyq_canon_verified": {
       "path": ".air10/startup_data/pyq_canon_verified.jsonl",
-      "sha256": "a689b8650bde2ce9dbdbe879309d50965b92286eb136cac17cabc9d05cfc1a77"
+      "sha256": "d83b0b05a45b906a02c210d22c12422725f3a8e600e170d38926ead6314d0f27"
     },
     "rubric": {
       "path": ".air10/startup_data/rubric.jsonl",
-      "sha256": "c5d1c6d83196919354edf6c263d3378379807ca3c0b186b55f2a180cd072e389"
+      "sha256": "13c104db1373a5cbfe51d71f961f275a16ee63b490b14e2c9c3c554db9b961ae"
     }
   },
   "files": {
@@ -31,7 +31,7 @@
       ]
     },
     "strategy/upsc-cse/answer-writing.md": {
-      "sha256": "844c7c4842b27f8b922106f8802f2c57843fb7451d6820247166d44fd744e8d8",
+      "sha256": "ac8644d362321b14944f93ba59a7962b4c0141cb44818712adc46ddd1f47600a",
       "sources": [
         "rubric_dataset"
       ]
@@ -43,7 +43,7 @@
       ]
     },
     "strategy/upsc-cse/topic-trends.md": {
-      "sha256": "3d66002ecf9dbfc25c0c3399991ede8cafe4fbb6ee78bbc8ad4d995b5fdd0a15",
+      "sha256": "992eeef39eb5c5b99023a29fb6b0111dfbe996df9e4fcea8ea839a1fe537d136",
       "sources": [
         "pyq_canon_verified"
       ]
