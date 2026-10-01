@@ -95,13 +95,11 @@ Rajon's work live with the sibling repo / hub (per the inventory's target
 mapping) and are linked, not copied:
 
 - **Evidence-gated retrieval** (`sovereign-study-commons-india`: SQLite FTS5 +
-  concept graph + evidence gate) — published as the reference implementation
-  in `awesome-electrical-exams` (inventory: `publish code`, target =
-  electrical). Relevant to CSE GS/S&T study as a pattern; see that repo when
-  it is public.
-- **Claim verification** (`truthgate`: deterministic claim auditor) —
-  inventory target includes this repo as a CI gate; wired in when tool code
-  lands here.
+  concept graph + evidence gate) — not public yet. Relevant to CSE GS/S&T
+  study as a pattern.
+- **EE study tool** — [`air10-exam`](https://github.com/lakhidas168-ship-it/awesome-electrical-exams/tree/main/tools/air10-exam)
+  in `awesome-electrical-exams` (exact solvers, unit checks, PYQ index you build
+  from public sources). Useful here for CSE optional Electrical Engineering.
 
 Explicitly **not** included: the paid evaluator bot's core (`bot.py`,
 `evaluator.py`, topper database), topper copies, coaching notes, lecture
@@ -123,8 +121,8 @@ transcripts. Links only, never copies.
 
 | Content type | License |
 |--------------|---------|
-| Code (`scripts/`) | [MIT](LICENSE.md) |
-| Text (README, docs, resources) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Code (`scripts/`) | [AGPL-3.0](LICENSE.md) |
+| Text (README, docs, resources) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): free for every student, no commercial use |
 
 ## 🤝 Contributing
 
