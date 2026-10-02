@@ -10,4 +10,4 @@ Our own analysis, written from primary data (verified official question papers a
 
 Electrical-engineering PYQ patterns live in the sibling repo [`awesome-electrical-exams`](https://github.com/lakhidas168-ship-it/awesome-electrical-exams).
 
-_Generated 2026-10-02._
+_Generated 2026-10-03._

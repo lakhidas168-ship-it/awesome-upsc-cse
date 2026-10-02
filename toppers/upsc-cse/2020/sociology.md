@@ -25,4 +25,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 14 | CATHERINE SARANYA A | 157 | English | [booklet #1521](https://cdn.visionias.in/toppersanswerbooklet/3ac6c-357350_1532_catherine-saranya-a_rank_157.pdf) |
 | 15 | CATHERINE SARANYA A | 157 | English | [booklet #1522](https://cdn.visionias.in/toppersanswerbooklet/81a59-357350_1533_catherine-saranya-a_rank_157.pdf) |
 
-_Citation rows: 15. Generated 2026-10-02 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 15. Generated 2026-10-03 from the public topper answer-booklet manifest (metadata only)._

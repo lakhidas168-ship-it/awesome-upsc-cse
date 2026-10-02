@@ -16,4 +16,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 5 | REKHA MEENA | 573 | English | [booklet #reg_8255](https://drive.google.com/file/d/1MaNTcbBOLZkMltH1VoUB-yQtlsOATjKo/view?usp=share_link) |
 | 6 | REKHA MEENA | 573 | English | [booklet #reg_8256](https://drive.google.com/file/d/15P_ASx_JeUGjLhY6vg9g4zyQlxX3RNMw/view?usp=share_link) |
 
-_Citation rows: 6. Generated 2026-10-02 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 6. Generated 2026-10-03 from the public topper answer-booklet manifest (metadata only)._

@@ -15,4 +15,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 4 | Pankaj Yadav | 642 | Hindi | [booklet #453](https://cdn.visionias.in/toppersanswerbooklet/daec2-23965_642_pankaj_yadav_rank_642.pdf) |
 | 5 | Pankaj Yadav | 642 | Hindi | [booklet #454](https://cdn.visionias.in/toppersanswerbooklet/2513a-23965_769_pankaj_yadav_rank_642.pdf) |
 
-_Citation rows: 5. Generated 2026-10-02 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 5. Generated 2026-10-03 from the public topper answer-booklet manifest (metadata only)._

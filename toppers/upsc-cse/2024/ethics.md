@@ -123,4 +123,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 112 | Rajkesh Meena | 953 | Hindi | [booklet #3262](https://cdn.visionias.in/toppersanswerbooklet/01b17-60766_1837_rajkesh_meena_rank_998.pdf) |
 | 113 | Rajkesh Meena | 953 | Hindi | [booklet #3263](https://cdn.visionias.in/toppersanswerbooklet/e514b-60766_2931_rajkesh_meena_rank_998.pdf) |
 
-_Citation rows: 113. Generated 2026-10-02 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 113. Generated 2026-10-03 from the public topper answer-booklet manifest (metadata only)._

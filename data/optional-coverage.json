@@ -3,7 +3,7 @@
   "title": "UPSC CSE optional subjects topper answer-copy coverage (metadata only)",
   "provenance": "official UPSC CSE Mains syllabus optional subjects list + public topper answer-booklet archives (metadata only; no copy is hosted here)",
   "exam": "upsc-cse",
-  "checked": "2026-10-02",
+  "checked": "2026-10-03",
   "generator": "deterministic scan of syllabus and source manifests (topper-updater protocol, TAXONOMY idempotency rule)",
   "sources": {
     "topper_manifest": {

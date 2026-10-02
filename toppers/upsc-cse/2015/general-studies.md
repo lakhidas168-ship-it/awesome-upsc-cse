@@ -76,4 +76,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 65 | PREMSUKH DELU | 170 | English | [booklet #180](https://cdn.visionias.in/toppersanswerbooklet/170_Premsukh_Delu_15301_638_GS.pdf) |
 | 66 | PREMSUKH DELU | 170 | English | [booklet #181](https://cdn.visionias.in/toppersanswerbooklet/170_Premsukh_Delu_15301_701_GS.pdf) |
 
-_Citation rows: 66. Generated 2026-10-02 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 66. Generated 2026-10-03 from the public topper answer-booklet manifest (metadata only)._

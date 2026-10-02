@@ -86,4 +86,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 75 | Kanta Jagir | 632 | Hindi | [booklet #451](https://cdn.visionias.in/toppersanswerbooklet/903cc-42370_1066_kanta_rank_632.pdf) |
 | 76 | Kanta Jagir | 632 | Hindi | [booklet #452](https://cdn.visionias.in/toppersanswerbooklet/91a1e-42370_1067_kanta_rank_632.pdf) |
 
-_Citation rows: 76. Generated 2026-10-02 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 76. Generated 2026-10-03 from the public topper answer-booklet manifest (metadata only)._

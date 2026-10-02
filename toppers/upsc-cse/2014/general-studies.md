@@ -52,4 +52,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 41 | Abhijit Shukla | 48 | English | [booklet #58](https://cdn.visionias.in/toppersanswerbooklet/cc943-abhijit-shukla_48_2014_gs_booklet_3.pdf) |
 | 42 | Mahima Sikand | 53 | English | [booklet #66](https://cdn.visionias.in/toppersanswerbooklet/63c32-mahima-sikand_53_2014_gs_booklet_1.pdf) |
 
-_Citation rows: 42. Generated 2026-10-02 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 42. Generated 2026-10-03 from the public topper answer-booklet manifest (metadata only)._

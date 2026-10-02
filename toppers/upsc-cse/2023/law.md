@@ -11,4 +11,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 |---|--------|------|--------|------------------|
 | 1 | Kaanchi Singhal | 213 | English | [booklet #reg_8023](https://www.defactolaw.in/_files/ugd/f721f3_2ee81452740840dcade6150406e59b38.pdf) |
 
-_Citation rows: 1. Generated 2026-10-02 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 1. Generated 2026-10-03 from the public topper answer-booklet manifest (metadata only)._

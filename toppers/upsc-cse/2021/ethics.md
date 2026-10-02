@@ -92,4 +92,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 81 | Sampada Trivedi | 79 | English | [booklet #1771](https://cdn.visionias.in/toppersanswerbooklet/dd83e-341959_1245_sampada_trivedi_rank_79.pdf) |
 | 82 | Nikhil Mahajan | 80 | English | [booklet #1774](https://cdn.visionias.in/toppersanswerbooklet/10c2d-9235_760_nikhil-mahajan_ran_80.pdf) |
 
-_Citation rows: 82. Generated 2026-10-02 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 82. Generated 2026-10-03 from the public topper answer-booklet manifest (metadata only)._
