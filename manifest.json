@@ -8,6 +8,11 @@
       "sha256": "27cbc02110a0365d40a1ba17e3f5d5d1cb26b6914976fd8284434e0df36f8649",
       "declared_count": 4027
     },
+    "registry_sqlite": {
+      "path": "teamwork_projects/toppers_archive_mojit/registry.sqlite",
+      "sha256": "0643fcb8715edbed7f67bdfcdabbee765327cb50ca6d8b3cd88be04c2cda2d09",
+      "declared_count": 8996
+    },
     "pyq_canon_verified": {
       "path": ".air10/startup_data/pyq_canon_verified.jsonl",
       "sha256": "4d0ca63e722aa0ded0fe74162dc3479bdf8af53050843b0840ab266bd9db7228"
@@ -24,6 +29,25 @@
         "readme_index"
       ]
     },
+    "data/optional-coverage.json": {
+      "sha256": "ee3bfdd514041c85187d0168d78c482eeca4f150dfbcb026f2a7355fefd8323e",
+      "sources": [
+        "topper_manifest",
+        "registry_sqlite"
+      ]
+    },
+    "data/topper-coverage.json": {
+      "sha256": "9c7c2db4daf7bd0440300b093dd07525253dc12bb432199cd39b222fd1aa20f0",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "docs/topper-coverage.md": {
+      "sha256": "5eb7ff627a1aea1a0858247b29460461faa2fed5788f55fd1f667cbb32f09546",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
     "strategy/README.md": {
       "sha256": "13c27453cc9916e3518536519b2412348c1eadda4a2e13bd6349722ce99d2569",
       "sources": [
@@ -37,9 +61,10 @@
       ]
     },
     "strategy/upsc-cse/optional.md": {
-      "sha256": "5d91f4de03fd08615d6f1cd47bbd1d61487bc6f3a7801625fc52eab31fb9cf4f",
+      "sha256": "4c1f98c2d6b63829a1d851ceef0beea480b6d86ea9371f4c19f4d7dafefcab84",
       "sources": [
-        "topper_manifest"
+        "topper_manifest",
+        "registry_sqlite"
       ]
     },
     "strategy/upsc-cse/topic-trends.md": {
@@ -49,9 +74,10 @@
       ]
     },
     "toppers/README.md": {
-      "sha256": "9e98aa6669dba8ff25620ca3916cce3f8ba07760a068390a1e552ee1f4af71d3",
+      "sha256": "52dc7214e81395e3cee5595c944cdaabb3dbc7536c1104b5e4aa0d014f3d251b",
       "sources": [
-        "topper_manifest"
+        "topper_manifest",
+        "registry_sqlite"
       ]
     },
     "toppers/upsc-cse/2013/essay.md": {
@@ -228,6 +254,12 @@
         "topper_manifest:2019/General Studies"
       ]
     },
+    "toppers/upsc-cse/2019/law.md": {
+      "sha256": "95e0946a486137d2c91e6a2963c94131d091443f3f2a650990b73e79e7a99361",
+      "sources": [
+        "topper_manifest:2019/Law"
+      ]
+    },
     "toppers/upsc-cse/2019/sociology.md": {
       "sha256": "1637af3a722c75b165d62208a69a6804c54fa845277b7972ea6b7544583b3997",
       "sources": [
@@ -250,6 +282,12 @@
       "sha256": "76cf725c69c0331fbabf4fcaa80aa5f40a03aaf55bd49ed7d27144eac02d397b",
       "sources": [
         "topper_manifest:2020/General Studies"
+      ]
+    },
+    "toppers/upsc-cse/2020/medical-science.md": {
+      "sha256": "aba6d2e44594966719bf20c2d4b7471927bfde4bd3ea86a33e544497b0e371b4",
+      "sources": [
+        "topper_manifest:2020/Medical Science"
       ]
     },
     "toppers/upsc-cse/2020/sociology.md": {
@@ -276,6 +314,12 @@
         "topper_manifest:2021/General Studies"
       ]
     },
+    "toppers/upsc-cse/2021/medical-science.md": {
+      "sha256": "f81f0a86f6e8a4ac83e359c42094cfc2b911d90226a557acde6480230d62f14a",
+      "sources": [
+        "topper_manifest:2021/Medical Science"
+      ]
+    },
     "toppers/upsc-cse/2021/sociology.md": {
       "sha256": "31cdea31f51c1e6bcfd329399d4632c9969a03437d22064e394dddd0c20d162f",
       "sources": [
@@ -300,10 +344,22 @@
         "topper_manifest:2022/General Studies"
       ]
     },
+    "toppers/upsc-cse/2022/medical-science.md": {
+      "sha256": "dcf728dbb51e8bc5f6032d7f66264a6a7d038a8d509e7912d3ccc46f0f33a3bc",
+      "sources": [
+        "topper_manifest:2022/Medical Science"
+      ]
+    },
     "toppers/upsc-cse/2022/sociology.md": {
       "sha256": "683fc748d77316d619db48a042448ddfc82e5b4213864b3b2f2160aa95629efb",
       "sources": [
         "topper_manifest:2022/Sociology"
+      ]
+    },
+    "toppers/upsc-cse/2023/economics.md": {
+      "sha256": "b8328f6c8c619b7fe73c596f76fd792494162aa656cac902224415eec4efd64e",
+      "sources": [
+        "topper_manifest:2023/Economics"
       ]
     },
     "toppers/upsc-cse/2023/essay.md": {
@@ -324,10 +380,28 @@
         "topper_manifest:2023/General Studies"
       ]
     },
+    "toppers/upsc-cse/2023/law.md": {
+      "sha256": "2fda526c5244399006235bee8d9ad08083337129e7a3424180ed2867c9358e58",
+      "sources": [
+        "topper_manifest:2023/Law"
+      ]
+    },
+    "toppers/upsc-cse/2023/medical-science.md": {
+      "sha256": "c5c7becbfac97c1b76838b2eab25e21ec9be9dbaafd512adb3fa672170bd747a",
+      "sources": [
+        "topper_manifest:2023/Medical Science"
+      ]
+    },
     "toppers/upsc-cse/2023/sociology.md": {
       "sha256": "2e914355d5d9fe49969a55e2c60371dbd25bcd9780f94e182af9c2850fb8f4ca",
       "sources": [
         "topper_manifest:2023/Sociology"
+      ]
+    },
+    "toppers/upsc-cse/2024/economics.md": {
+      "sha256": "afb7ffebfaff07d422d8d38d5b5f1e356beb14e95bf14423c9234763ce2c7ebf",
+      "sources": [
+        "topper_manifest:2024/Economics"
       ]
     },
     "toppers/upsc-cse/2024/essay.md": {
@@ -346,6 +420,18 @@
       "sha256": "9124193b3bb79ddf90c9958b59f1d228f44015febada373ee36f7beaa6930b2e",
       "sources": [
         "topper_manifest:2024/General Studies"
+      ]
+    },
+    "toppers/upsc-cse/2024/law.md": {
+      "sha256": "33464aa76e5f2c54619509b719077138a02ed6608a23caee8edfb40d0dc939c8",
+      "sources": [
+        "topper_manifest:2024/Law"
+      ]
+    },
+    "toppers/upsc-cse/2024/medical-science.md": {
+      "sha256": "d36efb54828b28684fd27182fc5855e7360b5406ab7c1fb88c7af1ce7d86eac3",
+      "sources": [
+        "topper_manifest:2024/Medical Science"
       ]
     },
     "toppers/upsc-cse/2024/sociology.md": {
@@ -402,6 +488,12 @@
         "topper_manifest:2025/History"
       ]
     },
+    "toppers/upsc-cse/2025/law.md": {
+      "sha256": "050f1c89d920b1a62c23de0f2495958b8d782082b93036fb8f7e4eb44805720d",
+      "sources": [
+        "topper_manifest:2025/Law"
+      ]
+    },
     "toppers/upsc-cse/2025/mathematics-ii.md": {
       "sha256": "705e822cd22fb98d6173a2255ca762b8ac771fb400ecb5065b89f93d33778042",
       "sources": [
@@ -430,6 +522,12 @@
       "sha256": "a417e5334b242d7654663c8720d688314b1659bc6627a85aa0ca8b6341ba4894",
       "sources": [
         "topper_manifest:2025/Sociology"
+      ]
+    },
+    "toppers/upsc-cse/2026/README.md": {
+      "sha256": "0419bbc1feca9a3adedb4b945a0c048691d24bb7fb4ddb582b620c51e6e3e647",
+      "sources": [
+        "topper_manifest"
       ]
     }
   }

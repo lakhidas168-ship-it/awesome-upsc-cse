@@ -1,0 +1,477 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "UPSC CSE optional subjects topper answer-copy coverage (metadata only)",
+  "provenance": "official UPSC CSE Mains syllabus optional subjects list + public topper answer-booklet archives (metadata only; no copy is hosted here)",
+  "exam": "upsc-cse",
+  "checked": "2026-10-02",
+  "generator": "deterministic scan of syllabus and source manifests (topper-updater protocol, TAXONOMY idempotency rule)",
+  "sources": {
+    "topper_manifest": {
+      "name": "toppers_4027_manifest.json",
+      "sha256": "27cbc02110a0365d40a1ba17e3f5d5d1cb26b6914976fd8284434e0df36f8649",
+      "declared_rows": 4027
+    },
+    "registry_sqlite": {
+      "name": "registry.sqlite",
+      "sha256": "0643fcb8715edbed7f67bdfcdabbee765327cb50ca6d8b3cd88be04c2cda2d09",
+      "declared_rows": 8996
+    },
+    "official_syllabus": {
+      "authority": "UPSC CSE Examination Notification / Syllabus Annexure",
+      "official_optionals_count": 25
+    }
+  },
+  "totals": {
+    "official_optionals": 25,
+    "available_optionals": 12,
+    "unavailable_gap_optionals": 14,
+    "total_optional_citation_rows": 412
+  },
+  "gap_optionals": [
+    "Agriculture",
+    "Animal Husbandry and Veterinary Science",
+    "Botany",
+    "Chemistry",
+    "Civil Engineering",
+    "Commerce and Accountancy",
+    "Electrical Engineering",
+    "Geology",
+    "Management",
+    "Mechanical Engineering",
+    "Physics",
+    "Statistics",
+    "Zoology",
+    "Literature of Languages"
+  ],
+  "gap_provenance": "goal300 register item P102 (cluster CL29): official optionals without public copies must be tracked, not silently absent",
+  "optionals": [
+    {
+      "optional_subject": "Agriculture",
+      "slug": "agriculture",
+      "status": "UNAVAILABLE",
+      "citation_rows": 0,
+      "distinct_toppers": 0,
+      "years_covered": [],
+      "files_count": 0,
+      "files": [],
+      "gap_record": true,
+      "gap_reason": "0 verified public topper answer copies found in current archives"
+    },
+    {
+      "optional_subject": "Animal Husbandry and Veterinary Science",
+      "slug": "animal-husbandry-and-veterinary-science",
+      "status": "UNAVAILABLE",
+      "citation_rows": 0,
+      "distinct_toppers": 0,
+      "years_covered": [],
+      "files_count": 0,
+      "files": [],
+      "gap_record": true,
+      "gap_reason": "0 verified public topper answer copies found in current archives"
+    },
+    {
+      "optional_subject": "Anthropology",
+      "slug": "anthropology",
+      "status": "AVAILABLE",
+      "citation_rows": 4,
+      "distinct_toppers": 2,
+      "years_covered": [
+        2025
+      ],
+      "files_count": 1,
+      "files": [
+        "toppers/upsc-cse/2025/anthropology.md"
+      ],
+      "gap_record": false
+    },
+    {
+      "optional_subject": "Botany",
+      "slug": "botany",
+      "status": "UNAVAILABLE",
+      "citation_rows": 0,
+      "distinct_toppers": 0,
+      "years_covered": [],
+      "files_count": 0,
+      "files": [],
+      "gap_record": true,
+      "gap_reason": "0 verified public topper answer copies found in current archives"
+    },
+    {
+      "optional_subject": "Chemistry",
+      "slug": "chemistry",
+      "status": "UNAVAILABLE",
+      "citation_rows": 0,
+      "distinct_toppers": 0,
+      "years_covered": [],
+      "files_count": 0,
+      "files": [],
+      "gap_record": true,
+      "gap_reason": "0 verified public topper answer copies found in current archives"
+    },
+    {
+      "optional_subject": "Civil Engineering",
+      "slug": "civil-engineering",
+      "status": "UNAVAILABLE",
+      "citation_rows": 0,
+      "distinct_toppers": 0,
+      "years_covered": [],
+      "files_count": 0,
+      "files": [],
+      "gap_record": true,
+      "gap_reason": "0 verified public topper answer copies found in current archives"
+    },
+    {
+      "optional_subject": "Commerce and Accountancy",
+      "slug": "commerce-and-accountancy",
+      "status": "UNAVAILABLE",
+      "citation_rows": 0,
+      "distinct_toppers": 0,
+      "years_covered": [],
+      "files_count": 0,
+      "files": [],
+      "gap_record": true,
+      "gap_reason": "0 verified public topper answer copies found in current archives"
+    },
+    {
+      "optional_subject": "Economics",
+      "slug": "economics",
+      "status": "AVAILABLE",
+      "citation_rows": 34,
+      "distinct_toppers": 9,
+      "years_covered": [
+        2023,
+        2024
+      ],
+      "files_count": 2,
+      "files": [
+        "toppers/upsc-cse/2023/economics.md",
+        "toppers/upsc-cse/2024/economics.md"
+      ],
+      "gap_record": false
+    },
+    {
+      "optional_subject": "Electrical Engineering",
+      "slug": "electrical-engineering",
+      "status": "UNAVAILABLE",
+      "citation_rows": 0,
+      "distinct_toppers": 0,
+      "years_covered": [],
+      "files_count": 0,
+      "files": [],
+      "gap_record": true,
+      "gap_reason": "0 verified public topper answer copies found in current archives"
+    },
+    {
+      "optional_subject": "Geography",
+      "slug": "geography",
+      "status": "AVAILABLE",
+      "citation_rows": 4,
+      "distinct_toppers": 2,
+      "years_covered": [
+        2017
+      ],
+      "files_count": 1,
+      "files": [
+        "toppers/upsc-cse/2017/geography.md"
+      ],
+      "gap_record": false
+    },
+    {
+      "optional_subject": "Geology",
+      "slug": "geology",
+      "status": "UNAVAILABLE",
+      "citation_rows": 0,
+      "distinct_toppers": 0,
+      "years_covered": [],
+      "files_count": 0,
+      "files": [],
+      "gap_record": true,
+      "gap_reason": "0 verified public topper answer copies found in current archives"
+    },
+    {
+      "optional_subject": "History",
+      "slug": "history",
+      "status": "AVAILABLE",
+      "citation_rows": 2,
+      "distinct_toppers": 1,
+      "years_covered": [
+        2025
+      ],
+      "files_count": 2,
+      "files": [
+        "toppers/upsc-cse/2025/history-ii.md",
+        "toppers/upsc-cse/2025/history.md"
+      ],
+      "gap_record": false
+    },
+    {
+      "optional_subject": "Law",
+      "slug": "law",
+      "status": "AVAILABLE",
+      "citation_rows": 41,
+      "distinct_toppers": 12,
+      "years_covered": [
+        2019,
+        2023,
+        2024,
+        2025
+      ],
+      "files_count": 4,
+      "files": [
+        "toppers/upsc-cse/2019/law.md",
+        "toppers/upsc-cse/2023/law.md",
+        "toppers/upsc-cse/2024/law.md",
+        "toppers/upsc-cse/2025/law.md"
+      ],
+      "gap_record": false
+    },
+    {
+      "optional_subject": "Management",
+      "slug": "management",
+      "status": "UNAVAILABLE",
+      "citation_rows": 0,
+      "distinct_toppers": 0,
+      "years_covered": [],
+      "files_count": 0,
+      "files": [],
+      "gap_record": true,
+      "gap_reason": "0 verified public topper answer copies found in current archives"
+    },
+    {
+      "optional_subject": "Mathematics",
+      "slug": "mathematics",
+      "status": "AVAILABLE",
+      "citation_rows": 2,
+      "distinct_toppers": 1,
+      "years_covered": [
+        2025
+      ],
+      "files_count": 2,
+      "files": [
+        "toppers/upsc-cse/2025/mathematics-ii.md",
+        "toppers/upsc-cse/2025/mathematics.md"
+      ],
+      "gap_record": false
+    },
+    {
+      "optional_subject": "Mechanical Engineering",
+      "slug": "mechanical-engineering",
+      "status": "UNAVAILABLE",
+      "citation_rows": 0,
+      "distinct_toppers": 0,
+      "years_covered": [],
+      "files_count": 0,
+      "files": [],
+      "gap_record": true,
+      "gap_reason": "0 verified public topper answer copies found in current archives"
+    },
+    {
+      "optional_subject": "Medical Science",
+      "slug": "medical-science",
+      "status": "AVAILABLE",
+      "citation_rows": 32,
+      "distinct_toppers": 16,
+      "years_covered": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "files_count": 5,
+      "files": [
+        "toppers/upsc-cse/2020/medical-science.md",
+        "toppers/upsc-cse/2021/medical-science.md",
+        "toppers/upsc-cse/2022/medical-science.md",
+        "toppers/upsc-cse/2023/medical-science.md",
+        "toppers/upsc-cse/2024/medical-science.md"
+      ],
+      "gap_record": false
+    },
+    {
+      "optional_subject": "Philosophy",
+      "slug": "philosophy",
+      "status": "AVAILABLE",
+      "citation_rows": 18,
+      "distinct_toppers": 4,
+      "years_covered": [
+        2014,
+        2016
+      ],
+      "files_count": 2,
+      "files": [
+        "toppers/upsc-cse/2014/philosophy.md",
+        "toppers/upsc-cse/2016/philosophy.md"
+      ],
+      "gap_record": false
+    },
+    {
+      "optional_subject": "Physics",
+      "slug": "physics",
+      "status": "UNAVAILABLE",
+      "citation_rows": 0,
+      "distinct_toppers": 0,
+      "years_covered": [],
+      "files_count": 0,
+      "files": [],
+      "gap_record": true,
+      "gap_reason": "0 verified public topper answer copies found in current archives"
+    },
+    {
+      "optional_subject": "Political Science and International Relations",
+      "slug": "political-science-and-international-relations",
+      "status": "AVAILABLE",
+      "citation_rows": 9,
+      "distinct_toppers": 5,
+      "years_covered": [
+        2025
+      ],
+      "files_count": 2,
+      "files": [
+        "toppers/upsc-cse/2025/psir-i.md",
+        "toppers/upsc-cse/2025/psir-ii.md"
+      ],
+      "gap_record": false
+    },
+    {
+      "optional_subject": "Psychology",
+      "slug": "psychology",
+      "status": "AVAILABLE",
+      "citation_rows": 4,
+      "distinct_toppers": 1,
+      "years_covered": [
+        2014
+      ],
+      "files_count": 1,
+      "files": [
+        "toppers/upsc-cse/2014/psychology.md"
+      ],
+      "gap_record": false
+    },
+    {
+      "optional_subject": "Public Administration",
+      "slug": "public-administration",
+      "status": "AVAILABLE",
+      "citation_rows": 9,
+      "distinct_toppers": 3,
+      "years_covered": [
+        2014,
+        2015
+      ],
+      "files_count": 2,
+      "files": [
+        "toppers/upsc-cse/2014/public-administration.md",
+        "toppers/upsc-cse/2015/public-administration.md"
+      ],
+      "gap_record": false
+    },
+    {
+      "optional_subject": "Sociology",
+      "slug": "sociology",
+      "status": "AVAILABLE",
+      "citation_rows": 253,
+      "distinct_toppers": 74,
+      "years_covered": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "files_count": 12,
+      "files": [
+        "toppers/upsc-cse/2014/sociology.md",
+        "toppers/upsc-cse/2015/sociology.md",
+        "toppers/upsc-cse/2016/sociology.md",
+        "toppers/upsc-cse/2017/sociology.md",
+        "toppers/upsc-cse/2018/sociology.md",
+        "toppers/upsc-cse/2019/sociology.md",
+        "toppers/upsc-cse/2020/sociology.md",
+        "toppers/upsc-cse/2021/sociology.md",
+        "toppers/upsc-cse/2022/sociology.md",
+        "toppers/upsc-cse/2023/sociology.md",
+        "toppers/upsc-cse/2024/sociology.md",
+        "toppers/upsc-cse/2025/sociology.md"
+      ],
+      "gap_record": false
+    },
+    {
+      "optional_subject": "Statistics",
+      "slug": "statistics",
+      "status": "UNAVAILABLE",
+      "citation_rows": 0,
+      "distinct_toppers": 0,
+      "years_covered": [],
+      "files_count": 0,
+      "files": [],
+      "gap_record": true,
+      "gap_reason": "0 verified public topper answer copies found in current archives"
+    },
+    {
+      "optional_subject": "Zoology",
+      "slug": "zoology",
+      "status": "UNAVAILABLE",
+      "citation_rows": 0,
+      "distinct_toppers": 0,
+      "years_covered": [],
+      "files_count": 0,
+      "files": [],
+      "gap_record": true,
+      "gap_reason": "0 verified public topper answer copies found in current archives"
+    },
+    {
+      "optional_subject": "Literature of Languages",
+      "slug": "literature",
+      "status": "UNAVAILABLE",
+      "citation_rows": 0,
+      "distinct_toppers": 0,
+      "years_covered": [],
+      "files_count": 0,
+      "files": [],
+      "gap_record": true,
+      "gap_reason": "0 verified public topper answer copies found in current archives"
+    }
+  ],
+  "resume": {
+    "rebuild_when": "sha256 of topper_manifest or registry_sqlite changes, or new public copies are ingested",
+    "rule": "an optional subject with 0 public rows stays UNAVAILABLE and only a real published source URL can flip it to AVAILABLE; never write a citation row without one",
+    "next_action_for_gap_optionals": "re-scan on every topper-updater run; create toppers/upsc-cse/<year>/<slug>.md as soon as verified public copies appear",
+    "waiting_on": [
+      "Agriculture",
+      "Animal Husbandry and Veterinary Science",
+      "Botany",
+      "Chemistry",
+      "Civil Engineering",
+      "Commerce and Accountancy",
+      "Electrical Engineering",
+      "Geology",
+      "Management",
+      "Mechanical Engineering",
+      "Physics",
+      "Statistics",
+      "Zoology",
+      "Literature of Languages"
+    ],
+    "available": [
+      "Anthropology",
+      "Economics",
+      "Geography",
+      "History",
+      "Law",
+      "Mathematics",
+      "Medical Science",
+      "Philosophy",
+      "Political Science and International Relations",
+      "Psychology",
+      "Public Administration",
+      "Sociology"
+    ]
+  }
+}
