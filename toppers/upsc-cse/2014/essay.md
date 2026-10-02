@@ -19,4 +19,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 8 | Purva Garg | 79 | English | [booklet #75](https://cdn.visionias.in/toppersanswerbooklet/80a9a-purva-garg_79_2014_essay_booklet_1.pdf) |
 | 9 | Tushar Singla | 86 | English | [booklet #79](https://cdn.visionias.in/toppersanswerbooklet/1bceb-tushar-singla_86_2014_essay_booklet_1.pdf) |
 
-_Citation rows: 9. Generated 2026-10-01 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 9. Generated 2026-10-02 from the public topper answer-booklet manifest (metadata only)._

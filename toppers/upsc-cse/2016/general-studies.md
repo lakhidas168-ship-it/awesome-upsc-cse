@@ -51,4 +51,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 40 | Anita Yadav | 350 | English | [booklet #215](https://cdn.visionias.in/toppersanswerbooklet/16663_844_Anita_Rank_350.pdf) |
 | 41 | Pankaj Yadav | 642 | Hindi | [booklet #456](https://cdn.visionias.in/toppersanswerbooklet/e468d-23965_754_pankaj_yadav_rank_642.pdf) |
 
-_Citation rows: 41. Generated 2026-10-01 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 41. Generated 2026-10-02 from the public topper answer-booklet manifest (metadata only)._

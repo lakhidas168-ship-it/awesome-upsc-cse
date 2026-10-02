@@ -73,4 +73,4 @@ A citation index of **publicly posted topper answer copies** for the UPSC Civil 
 | 2025 | PSIR II | 5 | 5 | [psir-ii.md](upsc-cse/2025/psir-ii.md) |
 | 2025 | Sociology | 31 | 12 | [sociology.md](upsc-cse/2025/sociology.md) |
 
-_Generated 2026-10-01. Rebuilt only when the source manifest changes._
+_Generated 2026-10-02. Rebuilt only when the source manifest changes._

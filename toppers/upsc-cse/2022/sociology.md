@@ -28,4 +28,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 17 | Ghazalpreet Kaur | 529 | English | [booklet #2370](https://cdn.visionias.in/toppersanswerbooklet/3f8a1-226463_2095_ghazalpreet-kaur-rank-529.pdf) |
 | 18 | Ghazalpreet Kaur | 529 | English | [booklet #2371](https://cdn.visionias.in/toppersanswerbooklet/40e33-226463_2097_ghazalpreet-kaur-rank-529.pdf) |
 
-_Citation rows: 18. Generated 2026-10-01 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 18. Generated 2026-10-02 from the public topper answer-booklet manifest (metadata only)._

@@ -123,4 +123,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 112 | Ravi Kumar Sihag | 317 | Hindi | [booklet #959](https://cdn.visionias.in/toppersanswerbooklet/9e880-168117_1439_ravi-kumar-sihag_rank_317.pdf) |
 | 113 | Ravi Kumar Sihag | 317 | Hindi | [booklet #960](https://cdn.visionias.in/toppersanswerbooklet/473f2-168117_1249_ravi-kumar-sihag_rank_317.pdf) |
 
-_Citation rows: 113. Generated 2026-10-01 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 113. Generated 2026-10-02 from the public topper answer-booklet manifest (metadata only)._

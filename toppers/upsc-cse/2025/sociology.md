@@ -41,4 +41,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 30 | Sana Azmi | 764 | English | [booklet #3830](https://cdn.visionias.in/toppersanswerbooklet/7b7c5-1126965_3342_sana_azmi_rank_764.pdf) |
 | 31 | Sana Azmi | 764 | English | [booklet #3831](https://cdn.visionias.in/toppersanswerbooklet/cdbe9-1126965_3345_sana_azmi_rank_764.pdf) |
 
-_Citation rows: 31. Generated 2026-10-01 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 31. Generated 2026-10-02 from the public topper answer-booklet manifest (metadata only)._

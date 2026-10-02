@@ -1,13 +1,13 @@
 # Topic trends — verified UPSC Mains question set
 
-Our own frequency analysis of **689 verified official Mains questions** (each confirmed independently against the question paper). Counts below are derived from that set only.
+Our own frequency analysis of **703 verified official Mains questions** (each confirmed independently against the question paper). Counts below are derived from that set only.
 
 ## Questions verified, by year and paper
 
 | Year | Paper | Questions |
 |------|-------|----------:|
 | 2013 | ESSAY | 24 |
-| 2013 | GS2 | 29 |
+| 2013 | GS2 | 31 |
 | 2013 | GS3 | 18 |
 | 2013 | GS4 | 11 |
 | 2014 | ESSAY | 8 |
@@ -19,6 +19,7 @@ Our own frequency analysis of **689 verified official Mains questions** (each co
 | 2016 | GS3 | 6 |
 | 2016 | GS4 | 15 |
 | 2017 | GS1 | 20 |
+| 2017 | GS2 | 12 |
 | 2017 | GS3 | 6 |
 | 2017 | GS4 | 19 |
 | 2018 | ESSAY | 4 |
@@ -58,45 +59,45 @@ Our own frequency analysis of **689 verified official Mains questions** (each co
 
 A crude but honest proxy for recurring themes: the most frequent content words across the verified question set. Use it to see which broad ideas keep returning, not as weightage.
 
+- **government** — appears in 62 verified questions
 - **public** — appears in 60 verified questions
-- **government** — appears in 60 verified questions
 - **ethical** — appears in 54 verified questions
+- **measures** — appears in 50 verified questions
 - **social** — appears in 48 verified questions
-- **measures** — appears in 48 verified questions
 - **development** — appears in 46 verified questions
 - **issues** — appears in 43 verified questions
 - **world** — appears in 38 verified questions
-- **suggest** — appears in 37 verified questions
-- **role** — appears in 35 verified questions
-- **security** — appears in 34 verified questions
-- **taken** — appears in 34 verified questions
-- **people** — appears in 32 verified questions
-- **reasons** — appears in 31 verified questions
-- **national** — appears in 30 verified questions
+- **suggest** — appears in 38 verified questions
+- **role** — appears in 37 verified questions
+- **security** — appears in 35 verified questions
+- **taken** — appears in 35 verified questions
+- **people** — appears in 33 verified questions
+- **reasons** — appears in 32 verified questions
+- **national** — appears in 31 verified questions
 - **country** — appears in 30 verified questions
 - **situation** — appears in 30 verified questions
+- **civil** — appears in 30 verified questions
+- **challenges** — appears in 29 verified questions
+- **years** — appears in 29 verified questions
 - **impact** — appears in 29 verified questions
 - **life** — appears in 29 verified questions
-- **civil** — appears in 29 verified questions
-- **challenges** — appears in 28 verified questions
-- **years** — appears in 28 verified questions
+- **society** — appears in 28 verified questions
 - **suitable** — appears in 28 verified questions
+- **system** — appears in 27 verified questions
 - **human** — appears in 27 verified questions
-- **society** — appears in 27 verified questions
-- **system** — appears in 26 verified questions
+- **policy** — appears in 26 verified questions
+- **economic** — appears in 26 verified questions
 - **options** — appears in 26 verified questions
 - **available** — appears in 26 verified questions
 - **service** — appears in 25 verified questions
 - **work** — appears in 25 verified questions
 - **international** — appears in 25 verified questions
-- **policy** — appears in 25 verified questions
-- **economic** — appears in 25 verified questions
 - **officer** — appears in 25 verified questions
+- **recent** — appears in 24 verified questions
+- **process** — appears in 24 verified questions
+- **time** — appears in 24 verified questions
 - **women** — appears in 24 verified questions
+- **present** — appears in 24 verified questions
 - **though** — appears in 23 verified questions
-- **areas** — appears in 23 verified questions
-- **recent** — appears in 23 verified questions
-- **time** — appears in 23 verified questions
-- **well** — appears in 23 verified questions
 
-_Generated 2026-10-01 from 689 verified questions._
+_Generated 2026-10-02 from 703 verified questions._

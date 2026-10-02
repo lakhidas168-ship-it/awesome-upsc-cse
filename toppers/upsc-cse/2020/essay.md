@@ -43,4 +43,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 32 | Girdhari Lal Meena | 387 | Hindi | [booklet #1501](https://cdn.visionias.in/toppersanswerbooklet/53cb0-330810_1458_girdhari-lal-meena_rank_387.pdf) |
 | 33 | Sunil Kumar Dhanwanta | 683 | Hindi | [booklet #1516](https://cdn.visionias.in/toppersanswerbooklet/f0c1e-109506_1078_sunil-kumar-dhanwanta_rank_683.pdf) |
 
-_Citation rows: 33. Generated 2026-10-01 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 33. Generated 2026-10-02 from the public topper answer-booklet manifest (metadata only)._
