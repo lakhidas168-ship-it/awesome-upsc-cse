@@ -1,0 +1,282 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "UPSC CSE topper answer-copy coverage by Mains year (metadata only)",
+  "provenance": "public topper answer-booklet archive manifest (metadata only; no copy is hosted here)",
+  "exam": "upsc-cse",
+  "checked": "2026-10-02",
+  "generator": "deterministic scan of the source manifest (topper-updater protocol, TAXONOMY idempotency rule)",
+  "source_manifest": {
+    "name": "toppers_4027_manifest.json",
+    "sha256": "27cbc02110a0365d40a1ba17e3f5d5d1cb26b6914976fd8284434e0df36f8649",
+    "declared_rows": 4027,
+    "rows_scanned": 4027,
+    "unusable_year_values": {
+      "100": 1
+    }
+  },
+  "totals": {
+    "citation_rows": 4026,
+    "years_with_copies": 13,
+    "years_tracked_as_gap": 1,
+    "year_range": "2013-2026"
+  },
+  "gap_years": [
+    2026
+  ],
+  "gap_provenance": "goal300 register item P107 (cluster CL29): current-cycle gap must be tracked, not silently absent",
+  "years": [
+    {
+      "year": 2013,
+      "rows": 7,
+      "distinct_toppers": 4,
+      "subjects": [
+        "Essay",
+        "General Studies"
+      ],
+      "files": 2,
+      "status": "AVAILABLE",
+      "tracked_as_gap": false,
+      "index": "toppers/upsc-cse/2013/",
+      "gap_record": false
+    },
+    {
+      "year": 2014,
+      "rows": 83,
+      "distinct_toppers": 20,
+      "subjects": [
+        "Essay",
+        "General Studies",
+        "Philosophy",
+        "Psychology",
+        "Public Administration",
+        "Sociology"
+      ],
+      "files": 6,
+      "status": "AVAILABLE",
+      "tracked_as_gap": false,
+      "index": "toppers/upsc-cse/2014/",
+      "gap_record": false
+    },
+    {
+      "year": 2015,
+      "rows": 90,
+      "distinct_toppers": 30,
+      "subjects": [
+        "Essay",
+        "General Studies",
+        "Public Administration",
+        "Sociology"
+      ],
+      "files": 4,
+      "status": "AVAILABLE",
+      "tracked_as_gap": false,
+      "index": "toppers/upsc-cse/2015/",
+      "gap_record": false
+    },
+    {
+      "year": 2016,
+      "rows": 82,
+      "distinct_toppers": 23,
+      "subjects": [
+        "Essay",
+        "Ethics",
+        "General Studies",
+        "Philosophy",
+        "Sociology"
+      ],
+      "files": 5,
+      "status": "AVAILABLE",
+      "tracked_as_gap": false,
+      "index": "toppers/upsc-cse/2016/",
+      "gap_record": false
+    },
+    {
+      "year": 2017,
+      "rows": 179,
+      "distinct_toppers": 56,
+      "subjects": [
+        "Essay",
+        "Ethics",
+        "General Studies",
+        "Geography",
+        "Sociology"
+      ],
+      "files": 5,
+      "status": "AVAILABLE",
+      "tracked_as_gap": false,
+      "index": "toppers/upsc-cse/2017/",
+      "gap_record": false
+    },
+    {
+      "year": 2018,
+      "rows": 273,
+      "distinct_toppers": 51,
+      "subjects": [
+        "Essay",
+        "Ethics",
+        "General Studies",
+        "Sociology"
+      ],
+      "files": 4,
+      "status": "AVAILABLE",
+      "tracked_as_gap": false,
+      "index": "toppers/upsc-cse/2018/",
+      "gap_record": false
+    },
+    {
+      "year": 2019,
+      "rows": 508,
+      "distinct_toppers": 110,
+      "subjects": [
+        "Essay",
+        "Ethics",
+        "General Studies",
+        "Sociology"
+      ],
+      "files": 4,
+      "status": "AVAILABLE",
+      "tracked_as_gap": false,
+      "index": "toppers/upsc-cse/2019/",
+      "gap_record": false
+    },
+    {
+      "year": 2020,
+      "rows": 275,
+      "distinct_toppers": 65,
+      "subjects": [
+        "Essay",
+        "Ethics",
+        "General Studies",
+        "Sociology"
+      ],
+      "files": 4,
+      "status": "AVAILABLE",
+      "tracked_as_gap": false,
+      "index": "toppers/upsc-cse/2020/",
+      "gap_record": false
+    },
+    {
+      "year": 2021,
+      "rows": 264,
+      "distinct_toppers": 54,
+      "subjects": [
+        "Essay",
+        "Ethics",
+        "General Studies",
+        "Sociology"
+      ],
+      "files": 4,
+      "status": "AVAILABLE",
+      "tracked_as_gap": false,
+      "index": "toppers/upsc-cse/2021/",
+      "gap_record": false
+    },
+    {
+      "year": 2022,
+      "rows": 672,
+      "distinct_toppers": 155,
+      "subjects": [
+        "Essay",
+        "Ethics",
+        "General Studies",
+        "Sociology"
+      ],
+      "files": 4,
+      "status": "AVAILABLE",
+      "tracked_as_gap": false,
+      "index": "toppers/upsc-cse/2022/",
+      "gap_record": false
+    },
+    {
+      "year": 2023,
+      "rows": 709,
+      "distinct_toppers": 155,
+      "subjects": [
+        "Essay",
+        "Ethics",
+        "General Studies",
+        "Sociology"
+      ],
+      "files": 4,
+      "status": "AVAILABLE",
+      "tracked_as_gap": false,
+      "index": "toppers/upsc-cse/2023/",
+      "gap_record": false
+    },
+    {
+      "year": 2024,
+      "rows": 468,
+      "distinct_toppers": 127,
+      "subjects": [
+        "Essay",
+        "Ethics",
+        "General Studies",
+        "Sociology"
+      ],
+      "files": 4,
+      "status": "AVAILABLE",
+      "tracked_as_gap": false,
+      "index": "toppers/upsc-cse/2024/",
+      "gap_record": false
+    },
+    {
+      "year": 2025,
+      "rows": 416,
+      "distinct_toppers": 122,
+      "subjects": [
+        "Anthropology",
+        "Essay",
+        "Ethics",
+        "General Studies",
+        "General Studies - II",
+        "General Studies - III",
+        "History",
+        "History II",
+        "Mathematics",
+        "Mathematics II",
+        "PSIR I",
+        "PSIR II",
+        "Sociology"
+      ],
+      "files": 13,
+      "status": "AVAILABLE",
+      "tracked_as_gap": false,
+      "index": "toppers/upsc-cse/2025/",
+      "gap_record": false
+    },
+    {
+      "year": 2026,
+      "rows": 0,
+      "distinct_toppers": 0,
+      "subjects": [],
+      "files": 0,
+      "status": "UNAVAILABLE",
+      "tracked_as_gap": true,
+      "index": "toppers/upsc-cse/2026/README.md",
+      "gap_record": true
+    }
+  ],
+  "resume": {
+    "rebuild_when": "sha256 of the source manifest differs from source_manifest.sha256 above",
+    "rule": "a year with 0 rows in the source manifest stays UNAVAILABLE and only a real published source URL can flip it to AVAILABLE; never write a row without one",
+    "next_action_for_gap_years": "re-scan on every topper-updater run; rewrite toppers/upsc-cse/<year>/README.md as a normal citation table as soon as the scan returns >= 1 row",
+    "waiting_on": [
+      2026
+    ],
+    "done": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  }
+}

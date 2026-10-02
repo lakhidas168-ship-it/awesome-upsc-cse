@@ -10,7 +10,7 @@
     },
     "pyq_canon_verified": {
       "path": ".air10/startup_data/pyq_canon_verified.jsonl",
-      "sha256": "42da2ca0bdbe19ec9c1c7a2d8c19f90fc7062646fa5f1bfebeb4fec23bb7cffd"
+      "sha256": "4d0ca63e722aa0ded0fe74162dc3479bdf8af53050843b0840ab266bd9db7228"
     },
     "rubric": {
       "path": ".air10/startup_data/rubric.jsonl",
@@ -22,6 +22,18 @@
       "sha256": "f7416164569b7050a3b7ec30e45d68c47c3a9fb3e65bea7b177db7a44adb6043",
       "sources": [
         "readme_index"
+      ]
+    },
+    "data/topper-coverage.json": {
+      "sha256": "9c7c2db4daf7bd0440300b093dd07525253dc12bb432199cd39b222fd1aa20f0",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "docs/topper-coverage.md": {
+      "sha256": "5eb7ff627a1aea1a0858247b29460461faa2fed5788f55fd1f667cbb32f09546",
+      "sources": [
+        "topper_manifest"
       ]
     },
     "strategy/README.md": {
@@ -49,7 +61,7 @@
       ]
     },
     "toppers/README.md": {
-      "sha256": "9e98aa6669dba8ff25620ca3916cce3f8ba07760a068390a1e552ee1f4af71d3",
+      "sha256": "2be87ab721e32e750e2990e88f8a257f84748423318501e829890b63393d628c",
       "sources": [
         "topper_manifest"
       ]
@@ -430,6 +442,12 @@
       "sha256": "a417e5334b242d7654663c8720d688314b1659bc6627a85aa0ca8b6341ba4894",
       "sources": [
         "topper_manifest:2025/Sociology"
+      ]
+    },
+    "toppers/upsc-cse/2026/README.md": {
+      "sha256": "0419bbc1feca9a3adedb4b945a0c048691d24bb7fb4ddb582b620c51e6e3e647",
+      "sources": [
+        "topper_manifest"
       ]
     }
   }

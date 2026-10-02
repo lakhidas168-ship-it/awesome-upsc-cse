@@ -4,7 +4,7 @@ A citation index of **publicly posted topper answer copies** for the UPSC Civil 
 
 - Total citation rows: **4026**
 - Distinct toppers: **942**
-- Years covered: **2013–2025**
+- Years covered: **2013–2025** — plus [2026](upsc-cse/2026/README.md) tracked as **UNAVAILABLE** (0 published copies in the source archive; machine-checked in [`data/topper-coverage.json`](../data/topper-coverage.json))
 - Source archive: Vision IAS public topper answer booklets (`cdn.visionias.in`)
 
 | Year | Paper | Copies | Toppers | File |
@@ -72,5 +72,7 @@ A citation index of **publicly posted topper answer copies** for the UPSC Civil 
 | 2025 | PSIR I | 4 | 4 | [psir-i.md](upsc-cse/2025/psir-i.md) |
 | 2025 | PSIR II | 5 | 5 | [psir-ii.md](upsc-cse/2025/psir-ii.md) |
 | 2025 | Sociology | 31 | 12 | [sociology.md](upsc-cse/2025/sociology.md) |
+
+| 2026 | *(no published copies yet)* | 0 | 0 | [README.md](upsc-cse/2026/README.md) — **UNAVAILABLE** |
 
 _Generated 2026-10-02. Rebuilt only when the source manifest changes._
