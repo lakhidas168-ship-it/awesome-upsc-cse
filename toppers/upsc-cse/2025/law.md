@@ -47,4 +47,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 36 | Aditya Mahar | 867 | English | [booklet #reg_8348](https://www.defactolaw.in/_files/ugd/9bce74_e74dbf601c434061aa939b1326ce615f.pdf) |
 | 37 | Arshad Qureshi | 993 | English | [booklet #reg_8386](https://www.defactolaw.in/_files/ugd/9bce74_1045946168e047109552f828a477eb07.pdf) |
 
-_Citation rows: 37. Generated 2026-10-03 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 37. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._

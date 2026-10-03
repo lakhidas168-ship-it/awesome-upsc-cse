@@ -15,4 +15,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 4 | Sakshi Sawhney | 6 | English | [booklet #90](https://cdn.visionias.in/toppersanswerbooklet/92b60-sakshi-sawhney_6_2013_gs_booklet_1.pdf) |
 | 5 | Divyanshu Jha | 9 | English | [booklet #91](https://cdn.visionias.in/toppersanswerbooklet/762d4-divyanshu-jha_9_2013_gs_booklet_1.pdf) |
 
-_Citation rows: 5. Generated 2026-10-03 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 5. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._

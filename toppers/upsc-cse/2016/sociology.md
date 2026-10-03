@@ -40,4 +40,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 29 | Abhilasha Abhinav | 308 | English | [booklet #249](https://cdn.visionias.in/toppersanswerbooklet/11250_820_Abhilasha_Abhinav_Rank_308.pdf) |
 | 30 | Abhilasha Abhinav | 308 | English | [booklet #250](https://cdn.visionias.in/toppersanswerbooklet/11250_823_Abhilasha_Abhinav_Rank_308.pdf) |
 
-_Citation rows: 30. Generated 2026-10-03 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 30. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._

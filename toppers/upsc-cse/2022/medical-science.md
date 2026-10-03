@@ -13,4 +13,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 2 | DR. S. MOHANA PRIYA | 557 | English | [booklet #reg_8244](https://drive.google.com/file/d/15CsJc04NikWEHDL-9uGlDevrwKE03Bfi/view?usp=sharing) |
 | 3 | DR. MEGHA RAJORA | 862 | English | [booklet #reg_8345](https://drive.google.com/file/d/1lePU-YAS8uCOrpE_uM9eSQGsB5EeKUpm/view?usp=sharing) |
 
-_Citation rows: 3. Generated 2026-10-03 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 3. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._

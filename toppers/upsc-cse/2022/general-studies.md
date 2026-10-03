@@ -339,4 +339,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 328 | Sunil Kumar | 909 | Hindi | [booklet #2451](https://cdn.visionias.in/toppersanswerbooklet/97234-729226_1391_sunil-kumar_rank-909.pdf) |
 | 329 | Sunil Kumar | 909 | Hindi | [booklet #2452](https://cdn.visionias.in/toppersanswerbooklet/5ee7a-729226_1452_sunil-kumar_rank-909.pdf) |
 
-_Citation rows: 329. Generated 2026-10-03 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 329. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._

@@ -13,4 +13,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 2 | Kanchan Kumar Kandpal | 263 | Hindi | [booklet #432](https://cdn.visionias.in/toppersanswerbooklet/8aa8d-26216_760_kanchan_kumar_rank_263.pdf) |
 | 3 | Pankaj Yadav | 642 | Hindi | [booklet #455](https://cdn.visionias.in/toppersanswerbooklet/982a5-23965_760_pankaj_yadav_rank_642.pdf) |
 
-_Citation rows: 3. Generated 2026-10-03 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 3. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._

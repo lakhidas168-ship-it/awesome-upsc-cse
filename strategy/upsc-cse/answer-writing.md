@@ -44,4 +44,4 @@ Across the whole rubric set a top answer is scored on **4–16 distinct dimensio
 
 Attempt the official Mains question paper for a topic, then check your answer against the dimensions above before moving on. A per-question rubric exists for every question in the verified set; the aggregated pattern is what is published here.
 
-_Generated 2026-10-03 from 724 rubrics (AIR10 answer-evaluator). Aggregates only._
+_Generated 2026-10-04 from 724 rubrics (AIR10 answer-evaluator). Aggregates only._

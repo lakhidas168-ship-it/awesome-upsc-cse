@@ -92,4 +92,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 81 | Sunil Kumar Dhanwanta | 683 | Hindi | [booklet #1515](https://cdn.visionias.in/toppersanswerbooklet/9b2ed-109506_1073_sunil-kumar-dhanwanta_rank_683.pdf) |
 | 82 | Subhash Chandra Meena | 737 | Hindi | [booklet #1517](https://cdn.visionias.in/toppersanswerbooklet/d3887-41040_873_subhash-chandra-meena_rank_737.pdf) |
 
-_Citation rows: 82. Generated 2026-10-03 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 82. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._

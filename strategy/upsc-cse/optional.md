@@ -46,4 +46,4 @@ The following official UPSC CSE optional subjects currently have no verified pub
 
 Machine-checked coverage: see [`data/optional-coverage.json`](../../data/optional-coverage.json).
 
-_Generated 2026-10-03 from the public topper manifest and verified archives._
+_Generated 2026-10-04 from the public topper manifest and verified archives._

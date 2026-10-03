@@ -20,4 +20,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 9 | Smrutiranjan Mohanty | 87 | English | [booklet #83](https://cdn.visionias.in/toppersanswerbooklet/7af71-smrutiranjan_87_2014_sociology_booklet_4.pdf) |
 | 10 | Smrutiranjan Mohanty | 87 | English | [booklet #84](https://cdn.visionias.in/toppersanswerbooklet/5d4a5-smrutiranjan_87_2014_sociology_booklet_5.pdf) |
 
-_Citation rows: 10. Generated 2026-10-03 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 10. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._

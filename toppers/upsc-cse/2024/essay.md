@@ -86,4 +86,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 75 | Vijendra kumar meena | 925 | Hindi | [booklet #3430](https://cdn.visionias.in/toppersanswerbooklet/e14da-333326_2488_vijendra_kumar_meena_rank_925.pdf) |
 | 76 | Rajkesh Meena | 953 | unspecified | [booklet #3431](https://cdn.visionias.in/toppersanswerbooklet/cf072-60766_2121_rajkesh_meena_rank_953.pdf) |
 
-_Citation rows: 76. Generated 2026-10-03 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 76. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._

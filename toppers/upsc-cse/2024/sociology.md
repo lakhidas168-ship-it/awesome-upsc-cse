@@ -44,4 +44,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 33 | Anupriya Rai | 189 | English | [booklet #3632](https://cdn.visionias.in/toppersanswerbooklet/73010-810715_2530_anupriya_rai_rank_189.pdf) |
 | 34 | Anupriya Rai | 189 | English | [booklet #3633](https://cdn.visionias.in/toppersanswerbooklet/21b47-810715_2531_anupriya_rai_rank_189.pdf) |
 
-_Citation rows: 34. Generated 2026-10-03 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 34. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._

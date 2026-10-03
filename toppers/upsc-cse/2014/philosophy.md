@@ -25,4 +25,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 14 | Abhijit Shukla | 48 | English | [booklet #64](https://cdn.visionias.in/toppersanswerbooklet/02ddf-abhijit-shukla_48_2014_philosophy_booklet_6.pdf) |
 | 15 | Abhijit Shukla | 48 | English | [booklet #65](https://cdn.visionias.in/toppersanswerbooklet/28f8b-abhijit-shukla_48_2014_philosophy_booklet_7.pdf) |
 
-_Citation rows: 15. Generated 2026-10-03 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 15. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._
