@@ -100,6 +100,6 @@ A crude but honest proxy for recurring themes: the most frequent content words a
 - **women** — appears in 25 verified questions
 - **bring** — appears in 24 verified questions
 - **recent** — appears in 24 verified questions
-- **well** — appears in 24 verified questions
+- **time** — appears in 24 verified questions
 
 _Generated 2026-10-03 from 726 verified questions._
