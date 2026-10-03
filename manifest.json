@@ -15,11 +15,11 @@
     },
     "pyq_canon_verified": {
       "path": ".air10/startup_data/pyq_canon_verified.jsonl",
-      "sha256": "4d0ca63e722aa0ded0fe74162dc3479bdf8af53050843b0840ab266bd9db7228"
+      "sha256": "521fde25e585b657c68ad7e8379dd11562dc997dd4d0e76592f274ef53dcc4fc"
     },
     "rubric": {
       "path": ".air10/startup_data/rubric.jsonl",
-      "sha256": "660384d4c305ff103211c5024583eaa201c97d96250f3c3473497345d15d27bc"
+      "sha256": "b97412b2563992963b026768c61b7cd782e7b71b4c82d941eab1d3241350a2d8"
     }
   },
   "files": {
@@ -55,7 +55,7 @@
       ]
     },
     "strategy/upsc-cse/answer-writing.md": {
-      "sha256": "d9a57d74d4934ca2166b4906d0e63fa30ea0ab9d7645aa625fa75efa29b00579",
+      "sha256": "a442b1ea0dde852e0c1fd6ff52ea8ed4b6e917b71111c8c3b22255901080e6fa",
       "sources": [
         "rubric_dataset"
       ]
@@ -68,124 +68,16 @@
       ]
     },
     "strategy/upsc-cse/topic-trends.md": {
-      "sha256": "5d94590c88f4848969fde15b5cd476c10f1f1cb39ac6eb16b800495b6114519d",
+      "sha256": "42412e613dd797a731be4ac46833c1728b7b447f0ff69e4bc965f8712ae182c0",
       "sources": [
         "pyq_canon_verified"
       ]
     },
     "toppers/README.md": {
-      "sha256": "3904c573da6f6d444175c05dad0d2d53f928be1f535a64646a741a7a810cabd6",
+      "sha256": "e8ba839408c80f5737ca5c58db2eae0f58c86f417bdcc247e797c433c0fbb32c",
       "sources": [
         "topper_manifest",
         "registry_sqlite"
-      ]
-    },
-    "toppers/upsc-cse/1995/README.md": {
-      "sha256": "f957bc3b754662603c455f9d3eef2b4e02636963097bab77bf80b8a85fe1fcad",
-      "sources": [
-        "topper_manifest"
-      ]
-    },
-    "toppers/upsc-cse/1996/README.md": {
-      "sha256": "ca61556a351fd19bab638fdc91ccc7048e74394ab29ce99bbd4ff678b2ef1e22",
-      "sources": [
-        "topper_manifest"
-      ]
-    },
-    "toppers/upsc-cse/1997/README.md": {
-      "sha256": "bf750d18c8a19582ddb4a342b311cdadb2a0fa6b73bb95e123b42048a2839f3c",
-      "sources": [
-        "topper_manifest"
-      ]
-    },
-    "toppers/upsc-cse/1998/README.md": {
-      "sha256": "b9063c494683eea8f4351ac32b100304afb1dbb695286942b7847592e45a47fa",
-      "sources": [
-        "topper_manifest"
-      ]
-    },
-    "toppers/upsc-cse/1999/README.md": {
-      "sha256": "6905d592869286f720de1163043be46e0f1e9c08ff35c79db56586eebb33d371",
-      "sources": [
-        "topper_manifest"
-      ]
-    },
-    "toppers/upsc-cse/2000/README.md": {
-      "sha256": "22b041ba004f5c213274289ee53a59cae02096ad84ebb853b73fcfb05d057f5b",
-      "sources": [
-        "topper_manifest"
-      ]
-    },
-    "toppers/upsc-cse/2001/README.md": {
-      "sha256": "b0d1d05ebe5ebcb82839651d97d828a46d4c007a936f03f5cf44a77506438149",
-      "sources": [
-        "topper_manifest"
-      ]
-    },
-    "toppers/upsc-cse/2002/README.md": {
-      "sha256": "5263f678f2d8a7898be62f50992a6d5aee1078b0f3ca9b211c49c6f7933aa39c",
-      "sources": [
-        "topper_manifest"
-      ]
-    },
-    "toppers/upsc-cse/2003/README.md": {
-      "sha256": "d520539c7915e3f82c81199ce20e479983d6233158ab8eb2dd20defd497a037e",
-      "sources": [
-        "topper_manifest"
-      ]
-    },
-    "toppers/upsc-cse/2004/README.md": {
-      "sha256": "0d1d11cb5c3a1fc1e7950300f1702a5f1a45d5308c18416f2848974f040170c6",
-      "sources": [
-        "topper_manifest"
-      ]
-    },
-    "toppers/upsc-cse/2005/README.md": {
-      "sha256": "1e441efb9a6d281d5fdc977d74226de0e8b79090bb0155788651795ec3f84b41",
-      "sources": [
-        "topper_manifest"
-      ]
-    },
-    "toppers/upsc-cse/2006/README.md": {
-      "sha256": "f65838ce405100afb7f63099de21351b30c80852caf39c0161af92fb3db8012a",
-      "sources": [
-        "topper_manifest"
-      ]
-    },
-    "toppers/upsc-cse/2007/README.md": {
-      "sha256": "90e34ee05eac7ee0cebcd6814de8faa7f98da0de23545af20d074e831b71bc23",
-      "sources": [
-        "topper_manifest"
-      ]
-    },
-    "toppers/upsc-cse/2008/README.md": {
-      "sha256": "5f7e118ca555e694a7b3479e8bd20844dd643673e42d06bc8c11551791994585",
-      "sources": [
-        "topper_manifest"
-      ]
-    },
-    "toppers/upsc-cse/2009/README.md": {
-      "sha256": "77be876444cd81d9ab544a12570e40c05a5b94f492d8342cb2ca1561ec419c7c",
-      "sources": [
-        "topper_manifest"
-      ]
-    },
-    "toppers/upsc-cse/2010/README.md": {
-      "sha256": "a77861be049e2254758750d2111219c3d38c111aa388c0ab6974c620783341e3",
-      "sources": [
-        "topper_manifest"
-      ]
-    },
-    "toppers/upsc-cse/2011/README.md": {
-      "sha256": "170ca660f7262b8443ccb84642021321cd55d0a33e30c2dcff92278d076688c3",
-      "sources": [
-        "topper_manifest"
-      ]
-    },
-    "toppers/upsc-cse/2012/README.md": {
-      "sha256": "de731f537d80f2c7b5e71db3a8883ce463d778c7f3ddc7778e8a6bce3607a2d0",
-      "sources": [
-        "topper_manifest"
       ]
     },
     "toppers/upsc-cse/2013/essay.md": {

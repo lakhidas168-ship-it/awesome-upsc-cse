@@ -1,6 +1,6 @@
 # Topic trends — verified UPSC Mains question set
 
-Our own frequency analysis of **724 verified official Mains questions** (each confirmed independently against the question paper). Counts below are derived from that set only.
+Our own frequency analysis of **726 verified official Mains questions** (each confirmed independently against the question paper). Counts below are derived from that set only.
 
 ## Questions verified, by year and paper
 
@@ -32,6 +32,7 @@ Our own frequency analysis of **724 verified official Mains questions** (each co
 | 2020 | ESSAY | 8 |
 | 2020 | GS1 | 19 |
 | 2020 | GS2 | 15 |
+| 2020 | GS3 | 2 |
 | 2020 | GS4 | 19 |
 | 2021 | ESSAY | 8 |
 | 2021 | GS1 | 20 |
@@ -63,17 +64,17 @@ A crude but honest proxy for recurring themes: the most frequent content words a
 - **government** — appears in 63 verified questions
 - **public** — appears in 62 verified questions
 - **ethical** — appears in 56 verified questions
-- **measures** — appears in 51 verified questions
+- **measures** — appears in 52 verified questions
+- **development** — appears in 49 verified questions
 - **social** — appears in 48 verified questions
-- **development** — appears in 48 verified questions
 - **issues** — appears in 43 verified questions
-- **suggest** — appears in 40 verified questions
+- **suggest** — appears in 41 verified questions
 - **world** — appears in 39 verified questions
 - **role** — appears in 37 verified questions
 - **security** — appears in 35 verified questions
 - **taken** — appears in 35 verified questions
 - **people** — appears in 34 verified questions
-- **reasons** — appears in 32 verified questions
+- **reasons** — appears in 33 verified questions
 - **life** — appears in 32 verified questions
 - **civil** — appears in 32 verified questions
 - **suitable** — appears in 32 verified questions
@@ -81,11 +82,11 @@ A crude but honest proxy for recurring themes: the most frequent content words a
 - **years** — appears in 31 verified questions
 - **challenges** — appears in 30 verified questions
 - **country** — appears in 30 verified questions
+- **human** — appears in 30 verified questions
 - **society** — appears in 30 verified questions
 - **situation** — appears in 30 verified questions
 - **system** — appears in 29 verified questions
 - **impact** — appears in 29 verified questions
-- **human** — appears in 29 verified questions
 - **present** — appears in 28 verified questions
 - **service** — appears in 26 verified questions
 - **work** — appears in 26 verified questions
@@ -94,11 +95,11 @@ A crude but honest proxy for recurring themes: the most frequent content words a
 - **economic** — appears in 26 verified questions
 - **options** — appears in 26 verified questions
 - **available** — appears in 26 verified questions
+- **process** — appears in 25 verified questions
 - **officer** — appears in 25 verified questions
 - **women** — appears in 25 verified questions
 - **bring** — appears in 24 verified questions
 - **recent** — appears in 24 verified questions
-- **process** — appears in 24 verified questions
 - **time** — appears in 24 verified questions
 
-_Generated 2026-10-03 from 724 verified questions._
+_Generated 2026-10-03 from 726 verified questions._
