@@ -40,4 +40,12 @@ jq -r '.files | to_entries[] | "\(.value.sha256)  \(.key)"' manifest.json | shas
 When the source manifest sha changes, rebuild the affected year files, then let the repo protocol
 regenerate `manifest.json` and push through the guard (never a bare `git push`).
 
-_Last checked 2026-10-02._
+## Pre-2013 gap (P101, 2026-10-03)
+Mains years 1995–2012 hold **0 rows** in the source manifest (it starts at 2013; earliest
+rows: 2013 = 7). Each of the 18 years gets the same UNAVAILABLE gap record + resume cursor as
+the 2026 gap (P107): `toppers/upsc-cse/<1995..2012>/README.md`, rolled up in
+`data/topper-coverage.json`. No citation row is ever written without a real published source
+URL. Pre-2013 cycles predate the public online booklet archive, so 0 rows reflects the source,
+not a missed scan.
+
+_Last checked 2026-10-03._

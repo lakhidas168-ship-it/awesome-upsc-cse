@@ -4,7 +4,7 @@ A citation index of **publicly posted topper answer copies** for the UPSC Civil 
 
 - Total citation rows: **4133**
 - Distinct toppers: **976**
-- Years covered: **2013–2025** (and [2026](upsc-cse/2026/README.md) tracked as UNAVAILABLE gap)
+- Years covered: **2013–2025** ([2026](upsc-cse/2026/README.md) and 1995–2012 tracked as UNAVAILABLE gaps — 19 gap years, each with a resume cursor; see [coverage](../data/topper-coverage.json))
 - Source archive: Vision IAS public topper answer booklets (`cdn.visionias.in`) and verified institute archives (`registry.sqlite`)
 
 | Year | Paper | Copies | Toppers | File |

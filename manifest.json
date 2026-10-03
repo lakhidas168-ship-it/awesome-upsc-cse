@@ -37,13 +37,13 @@
       ]
     },
     "data/topper-coverage.json": {
-      "sha256": "9c7c2db4daf7bd0440300b093dd07525253dc12bb432199cd39b222fd1aa20f0",
+      "sha256": "2dc80e93bf4d98bdafd6f6eeb06ec7b3487fda83e4f32b30c04f79a2ce055acf",
       "sources": [
         "topper_manifest"
       ]
     },
     "docs/topper-coverage.md": {
-      "sha256": "5eb7ff627a1aea1a0858247b29460461faa2fed5788f55fd1f667cbb32f09546",
+      "sha256": "caffa6956b70c07190b52f289fe1a1ebb346c1c175c6d778b4b63f466127819f",
       "sources": [
         "topper_manifest"
       ]
@@ -74,10 +74,118 @@
       ]
     },
     "toppers/README.md": {
-      "sha256": "e8ba839408c80f5737ca5c58db2eae0f58c86f417bdcc247e797c433c0fbb32c",
+      "sha256": "3904c573da6f6d444175c05dad0d2d53f928be1f535a64646a741a7a810cabd6",
       "sources": [
         "topper_manifest",
         "registry_sqlite"
+      ]
+    },
+    "toppers/upsc-cse/1995/README.md": {
+      "sha256": "f957bc3b754662603c455f9d3eef2b4e02636963097bab77bf80b8a85fe1fcad",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "toppers/upsc-cse/1996/README.md": {
+      "sha256": "ca61556a351fd19bab638fdc91ccc7048e74394ab29ce99bbd4ff678b2ef1e22",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "toppers/upsc-cse/1997/README.md": {
+      "sha256": "bf750d18c8a19582ddb4a342b311cdadb2a0fa6b73bb95e123b42048a2839f3c",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "toppers/upsc-cse/1998/README.md": {
+      "sha256": "b9063c494683eea8f4351ac32b100304afb1dbb695286942b7847592e45a47fa",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "toppers/upsc-cse/1999/README.md": {
+      "sha256": "6905d592869286f720de1163043be46e0f1e9c08ff35c79db56586eebb33d371",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "toppers/upsc-cse/2000/README.md": {
+      "sha256": "22b041ba004f5c213274289ee53a59cae02096ad84ebb853b73fcfb05d057f5b",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "toppers/upsc-cse/2001/README.md": {
+      "sha256": "b0d1d05ebe5ebcb82839651d97d828a46d4c007a936f03f5cf44a77506438149",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "toppers/upsc-cse/2002/README.md": {
+      "sha256": "5263f678f2d8a7898be62f50992a6d5aee1078b0f3ca9b211c49c6f7933aa39c",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "toppers/upsc-cse/2003/README.md": {
+      "sha256": "d520539c7915e3f82c81199ce20e479983d6233158ab8eb2dd20defd497a037e",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "toppers/upsc-cse/2004/README.md": {
+      "sha256": "0d1d11cb5c3a1fc1e7950300f1702a5f1a45d5308c18416f2848974f040170c6",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "toppers/upsc-cse/2005/README.md": {
+      "sha256": "1e441efb9a6d281d5fdc977d74226de0e8b79090bb0155788651795ec3f84b41",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "toppers/upsc-cse/2006/README.md": {
+      "sha256": "f65838ce405100afb7f63099de21351b30c80852caf39c0161af92fb3db8012a",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "toppers/upsc-cse/2007/README.md": {
+      "sha256": "90e34ee05eac7ee0cebcd6814de8faa7f98da0de23545af20d074e831b71bc23",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "toppers/upsc-cse/2008/README.md": {
+      "sha256": "5f7e118ca555e694a7b3479e8bd20844dd643673e42d06bc8c11551791994585",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "toppers/upsc-cse/2009/README.md": {
+      "sha256": "77be876444cd81d9ab544a12570e40c05a5b94f492d8342cb2ca1561ec419c7c",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "toppers/upsc-cse/2010/README.md": {
+      "sha256": "a77861be049e2254758750d2111219c3d38c111aa388c0ab6974c620783341e3",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "toppers/upsc-cse/2011/README.md": {
+      "sha256": "170ca660f7262b8443ccb84642021321cd55d0a33e30c2dcff92278d076688c3",
+      "sources": [
+        "topper_manifest"
+      ]
+    },
+    "toppers/upsc-cse/2012/README.md": {
+      "sha256": "de731f537d80f2c7b5e71db3a8883ce463d778c7f3ddc7778e8a6bce3607a2d0",
+      "sources": [
+        "topper_manifest"
       ]
     },
     "toppers/upsc-cse/2013/essay.md": {
