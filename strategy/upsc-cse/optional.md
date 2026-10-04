@@ -11,15 +11,17 @@ Which UPSC Mains **optional subjects** have publicly posted topper copies in the
 | Economics | 34 | 9 | 2023–2024 |
 | Medical Science | 32 | 16 | 2020–2024 |
 | Philosophy | 18 | 4 | 2014–2016 |
+| Physics | 17 | 4 | 2020–2024 |
 | Political Science and International Relations | 9 | 5 | 2025 |
 | Public Administration | 9 | 3 | 2014–2015 |
+| Management | 6 | 4 | 2018–2021 |
 | Anthropology | 4 | 2 | 2025 |
 | Geography | 4 | 2 | 2017 |
 | Psychology | 4 | 1 | 2014 |
 | History | 2 | 1 | 2025 |
 | Mathematics | 2 | 1 | 2025 |
 
-Total optional citation rows: **412** across **12** subjects.
+Total optional citation rows: **435** across **14** subjects.
 
 See [`toppers/`](../../toppers/) for the row-level citations.
 
@@ -37,9 +39,7 @@ The following official UPSC CSE optional subjects currently have no verified pub
 | Commerce and Accountancy | UNAVAILABLE | 0 verified public topper answer copies found in current archives | Re-scan on source manifest update |
 | Electrical Engineering | UNAVAILABLE | 0 verified public topper answer copies found in current archives | Re-scan on source manifest update |
 | Geology | UNAVAILABLE | 0 verified public topper answer copies found in current archives | Re-scan on source manifest update |
-| Management | UNAVAILABLE | 0 verified public topper answer copies found in current archives | Re-scan on source manifest update |
 | Mechanical Engineering | UNAVAILABLE | 0 verified public topper answer copies found in current archives | Re-scan on source manifest update |
-| Physics | UNAVAILABLE | 0 verified public topper answer copies found in current archives | Re-scan on source manifest update |
 | Statistics | UNAVAILABLE | 0 verified public topper answer copies found in current archives | Re-scan on source manifest update |
 | Zoology | UNAVAILABLE | 0 verified public topper answer copies found in current archives | Re-scan on source manifest update |
 | Literature of Languages | UNAVAILABLE | 0 verified public topper answer copies found in current archives | Re-scan on source manifest update |

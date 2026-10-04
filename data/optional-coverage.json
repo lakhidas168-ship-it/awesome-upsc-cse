@@ -13,8 +13,8 @@
     },
     "registry_sqlite": {
       "name": "registry.sqlite",
-      "sha256": "0643fcb8715edbed7f67bdfcdabbee765327cb50ca6d8b3cd88be04c2cda2d09",
-      "declared_rows": 8996
+      "sha256": "67ae662eac3e9fa21559d9d00729fd7cb4460bd9db9356bf593fc19b01d52626",
+      "declared_rows": 9002
     },
     "official_syllabus": {
       "authority": "UPSC CSE Examination Notification / Syllabus Annexure",
@@ -23,9 +23,9 @@
   },
   "totals": {
     "official_optionals": 25,
-    "available_optionals": 12,
-    "unavailable_gap_optionals": 14,
-    "total_optional_citation_rows": 412
+    "available_optionals": 14,
+    "unavailable_gap_optionals": 12,
+    "total_optional_citation_rows": 435
   },
   "gap_optionals": [
     "Agriculture",
@@ -36,14 +36,12 @@
     "Commerce and Accountancy",
     "Electrical Engineering",
     "Geology",
-    "Management",
     "Mechanical Engineering",
-    "Physics",
     "Statistics",
     "Zoology",
     "Literature of Languages"
   ],
-  "gap_provenance": "goal300 register item P102 (cluster CL29): official optionals without public copies must be tracked, not silently absent",
+  "gap_provenance": "goal300 register items P102, P104, P105 and P106 (cluster CL29): official optionals without public copies must be tracked, not silently absent",
   "optionals": [
     {
       "optional_subject": "Agriculture",
@@ -228,14 +226,21 @@
     {
       "optional_subject": "Management",
       "slug": "management",
-      "status": "UNAVAILABLE",
-      "citation_rows": 0,
-      "distinct_toppers": 0,
-      "years_covered": [],
-      "files_count": 0,
-      "files": [],
-      "gap_record": true,
-      "gap_reason": "0 verified public topper answer copies found in current archives"
+      "status": "AVAILABLE",
+      "citation_rows": 6,
+      "distinct_toppers": 4,
+      "years_covered": [
+        2018,
+        2020,
+        2021
+      ],
+      "files_count": 3,
+      "files": [
+        "toppers/upsc-cse/2018/management.md",
+        "toppers/upsc-cse/2020/management.md",
+        "toppers/upsc-cse/2021/management.md"
+      ],
+      "gap_record": false
     },
     {
       "optional_subject": "Mathematics",
@@ -308,14 +313,21 @@
     {
       "optional_subject": "Physics",
       "slug": "physics",
-      "status": "UNAVAILABLE",
-      "citation_rows": 0,
-      "distinct_toppers": 0,
-      "years_covered": [],
-      "files_count": 0,
-      "files": [],
-      "gap_record": true,
-      "gap_reason": "0 verified public topper answer copies found in current archives"
+      "status": "AVAILABLE",
+      "citation_rows": 17,
+      "distinct_toppers": 4,
+      "years_covered": [
+        2020,
+        2023,
+        2024
+      ],
+      "files_count": 3,
+      "files": [
+        "toppers/upsc-cse/2020/physics.md",
+        "toppers/upsc-cse/2023/physics.md",
+        "toppers/upsc-cse/2024/physics.md"
+      ],
+      "gap_record": false
     },
     {
       "optional_subject": "Political Science and International Relations",
@@ -452,9 +464,7 @@
       "Commerce and Accountancy",
       "Electrical Engineering",
       "Geology",
-      "Management",
       "Mechanical Engineering",
-      "Physics",
       "Statistics",
       "Zoology",
       "Literature of Languages"
@@ -465,9 +475,11 @@
       "Geography",
       "History",
       "Law",
+      "Management",
       "Mathematics",
       "Medical Science",
       "Philosophy",
+      "Physics",
       "Political Science and International Relations",
       "Psychology",
       "Public Administration",
