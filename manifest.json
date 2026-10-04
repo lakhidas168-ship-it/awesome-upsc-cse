@@ -10,12 +10,12 @@
     },
     "registry_sqlite": {
       "path": "teamwork_projects/toppers_archive_mojit/registry.sqlite",
-      "sha256": "0643fcb8715edbed7f67bdfcdabbee765327cb50ca6d8b3cd88be04c2cda2d09",
-      "declared_count": 8996
+      "sha256": "67ae662eac3e9fa21559d9d00729fd7cb4460bd9db9356bf593fc19b01d52626",
+      "declared_count": 9002
     },
     "pyq_canon_verified": {
       "path": ".air10/startup_data/pyq_canon_verified.jsonl",
-      "sha256": "521fde25e585b657c68ad7e8379dd11562dc997dd4d0e76592f274ef53dcc4fc"
+      "sha256": "6dd39eb33de355d1152b9e46d0f2c78d4aaa085f4e6e7caad7ec901e29a7770b"
     },
     "rubric": {
       "path": ".air10/startup_data/rubric.jsonl",
@@ -30,7 +30,7 @@
       ]
     },
     "data/optional-coverage.json": {
-      "sha256": "7fcab95da91c5b0625b8ce6e3e08a162acb8546ccfa0840ac032d9cbfea1aab6",
+      "sha256": "bd42b077420ad357a87f140826c000a1ec8703d44b6ab54fa6d0d2cc59b5ef7b",
       "sources": [
         "topper_manifest",
         "registry_sqlite"
@@ -61,20 +61,20 @@
       ]
     },
     "strategy/upsc-cse/optional.md": {
-      "sha256": "1925f3a92abfb7f6b2d85b59ad096aec44a97a8ae9b3d5467614554232a7e803",
+      "sha256": "17583867fe95d00830a7e0e0e46a323f97c3631e57596f5775727ed7e891e06a",
       "sources": [
         "topper_manifest",
         "registry_sqlite"
       ]
     },
     "strategy/upsc-cse/topic-trends.md": {
-      "sha256": "1cbd3512dc655b46194604eb84521c446c78a30d90bc1da6ccb5139109cc34b8",
+      "sha256": "dc2a511dbc10349972495d0005e1d94fc194f555a9dbcd78acc6f7480a512496",
       "sources": [
         "pyq_canon_verified"
       ]
     },
     "toppers/README.md": {
-      "sha256": "818021b788eee1207753ad2c11f35a1d8c3b692300d8d6f07b57d286cfa0a134",
+      "sha256": "3d6b42214ec0e96de59a6b7b530be11c205ff49aead9ca63a131e0ec811ff932",
       "sources": [
         "topper_manifest",
         "registry_sqlite"
@@ -86,10 +86,24 @@
         "topper_manifest:2013/Essay"
       ]
     },
+    "toppers/upsc-cse/2013/ethics.md": {
+      "sha256": "409cabd545a443d7c411d8099ae02e17d11cb0c8baeb72cfd6991f8721b66ee5",
+      "sources": [
+        "topper_manifest:2013/ethics_gap",
+        "registry_sqlite:2013/ethics_gap"
+      ]
+    },
     "toppers/upsc-cse/2013/general-studies.md": {
       "sha256": "112c646b34149b42ebd658f046f29fd4258cd3f3f69278aa3f06aed3ce1aeb15",
       "sources": [
         "topper_manifest:2013/General Studies"
+      ]
+    },
+    "toppers/upsc-cse/2013/sociology.md": {
+      "sha256": "247f674166584766776633d690bb05f73c1a414b92b05c3b489defc7e85d466c",
+      "sources": [
+        "topper_manifest:2013/sociology_gap",
+        "registry_sqlite:2013/sociology_gap"
       ]
     },
     "toppers/upsc-cse/2014/essay.md": {
@@ -230,6 +244,12 @@
         "topper_manifest:2018/General Studies"
       ]
     },
+    "toppers/upsc-cse/2018/management.md": {
+      "sha256": "ac740ac6ab09d50e8dda315a1c8343a603a8c6066a0d344b76e9dca81b989723",
+      "sources": [
+        "topper_manifest:2018/Management"
+      ]
+    },
     "toppers/upsc-cse/2018/sociology.md": {
       "sha256": "e285b35932afc3ae4bf668af541e3db2d675dcd9e62a76df6432b208c81ed4a7",
       "sources": [
@@ -284,10 +304,22 @@
         "topper_manifest:2020/General Studies"
       ]
     },
+    "toppers/upsc-cse/2020/management.md": {
+      "sha256": "e3210882f2c5f73764b61cf18c822b8171792218c856fa1ee0e851eeead13ddc",
+      "sources": [
+        "topper_manifest:2020/Management"
+      ]
+    },
     "toppers/upsc-cse/2020/medical-science.md": {
       "sha256": "f08ba4890988a7a7b1710bf6acb09c393f5190cc70b39c230f6fa0919d4a3b2e",
       "sources": [
         "topper_manifest:2020/Medical Science"
+      ]
+    },
+    "toppers/upsc-cse/2020/physics.md": {
+      "sha256": "77dfcb598a2d164e316fb1ac634fe5f524b70da29af676eb64f41ee95974db9a",
+      "sources": [
+        "topper_manifest:2020/Physics"
       ]
     },
     "toppers/upsc-cse/2020/sociology.md": {
@@ -312,6 +344,12 @@
       "sha256": "bc31aff11d453b85393cab11c3f03e8c60cd5243aaa101eacc6344528a5b293e",
       "sources": [
         "topper_manifest:2021/General Studies"
+      ]
+    },
+    "toppers/upsc-cse/2021/management.md": {
+      "sha256": "bdd37ae4f9af9ba716f5781fa4d41a04d6a3d69633ab23fc0fd291fbd4373195",
+      "sources": [
+        "topper_manifest:2021/Management"
       ]
     },
     "toppers/upsc-cse/2021/medical-science.md": {
@@ -392,6 +430,12 @@
         "topper_manifest:2023/Medical Science"
       ]
     },
+    "toppers/upsc-cse/2023/physics.md": {
+      "sha256": "6f709137612ec32b8e60376b8826d0f0713d64d319116c7153e26f03670be517",
+      "sources": [
+        "topper_manifest:2023/Physics"
+      ]
+    },
     "toppers/upsc-cse/2023/sociology.md": {
       "sha256": "d77dfa6b1555879ad406b5d0112d4249ba86bcff8e9b7dd5244c33c8fcbf5313",
       "sources": [
@@ -432,6 +476,12 @@
       "sha256": "6cdfb0826824a24088e3192939588b0e8008a0953eed71fab56db3cf22dc94c2",
       "sources": [
         "topper_manifest:2024/Medical Science"
+      ]
+    },
+    "toppers/upsc-cse/2024/physics.md": {
+      "sha256": "fd8eea642fcef259656e966b4aa46f2f55629851c1bdae93fede32da608c2269",
+      "sources": [
+        "topper_manifest:2024/Physics"
       ]
     },
     "toppers/upsc-cse/2024/sociology.md": {

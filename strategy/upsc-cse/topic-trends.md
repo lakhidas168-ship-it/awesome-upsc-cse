@@ -1,6 +1,6 @@
 # Topic trends — verified UPSC Mains question set
 
-Our own frequency analysis of **726 verified official Mains questions** (each confirmed independently against the question paper). Counts below are derived from that set only.
+Our own frequency analysis of **727 verified official Mains questions** (each confirmed independently against the question paper). Counts below are derived from that set only.
 
 ## Questions verified, by year and paper
 
@@ -17,7 +17,7 @@ Our own frequency analysis of **726 verified official Mains questions** (each co
 | 2016 | ESSAY | 8 |
 | 2016 | GS1 | 3 |
 | 2016 | GS2 | 13 |
-| 2016 | GS3 | 8 |
+| 2016 | GS3 | 9 |
 | 2016 | GS4 | 15 |
 | 2017 | GS1 | 20 |
 | 2017 | GS2 | 12 |
@@ -78,9 +78,9 @@ A crude but honest proxy for recurring themes: the most frequent content words a
 - **civil** — appears in 32 verified questions
 - **life** — appears in 32 verified questions
 - **suitable** — appears in 32 verified questions
+- **challenges** — appears in 31 verified questions
 - **national** — appears in 31 verified questions
 - **years** — appears in 31 verified questions
-- **challenges** — appears in 30 verified questions
 - **country** — appears in 30 verified questions
 - **human** — appears in 30 verified questions
 - **situation** — appears in 30 verified questions
@@ -102,4 +102,4 @@ A crude but honest proxy for recurring themes: the most frequent content words a
 - **good** — appears in 24 verified questions
 - **recent** — appears in 24 verified questions
 
-_Generated 2026-10-04 from 726 verified questions._
+_Generated 2026-10-04 from 727 verified questions._

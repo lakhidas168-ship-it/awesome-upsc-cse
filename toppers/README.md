@@ -2,8 +2,8 @@
 
 A citation index of **publicly posted topper answer copies** for the UPSC Civil Services Mains examination. Each row gives the topper's name, rank, the medium and a link to the published booklet. **No answer-copy file, scan or transcript is stored in this repo** — metadata and source links only, per the project's safe-content rule.
 
-- Total citation rows: **4133**
-- Distinct toppers: **976**
+- Total citation rows: **4156**
+- Distinct toppers: **981**
 - Years covered: **2013–2025** (and [2026](upsc-cse/2026/README.md) tracked as UNAVAILABLE gap)
 - Source archive: Vision IAS public topper answer booklets (`cdn.visionias.in`) and verified institute archives (`registry.sqlite`)
 
@@ -11,6 +11,8 @@ A citation index of **publicly posted topper answer copies** for the UPSC Civil 
 |------|-------|-------:|--------:|------|
 | 2013 | Essay Paper | 2 | 1 | [essay.md](upsc-cse/2013/essay.md) |
 | 2013 | General Studies (GS-I to GS-IV common set) | 5 | 4 | [general-studies.md](upsc-cse/2013/general-studies.md) |
+| 2013 | General Studies Paper IV (Ethics, Integrity, Aptitude) | 0 | 0 | [ethics.md](upsc-cse/2013/ethics.md) · UNAVAILABLE |
+| 2013 | Sociology | 0 | 0 | [sociology.md](upsc-cse/2013/sociology.md) · UNAVAILABLE |
 | 2014 | Essay Paper | 9 | 5 | [essay.md](upsc-cse/2014/essay.md) |
 | 2014 | General Studies (GS-I to GS-IV common set) | 42 | 13 | [general-studies.md](upsc-cse/2014/general-studies.md) |
 | 2014 | Philosophy | 15 | 3 | [philosophy.md](upsc-cse/2014/philosophy.md) |
@@ -34,6 +36,7 @@ A citation index of **publicly posted topper answer copies** for the UPSC Civil 
 | 2018 | Essay Paper | 32 | 14 | [essay.md](upsc-cse/2018/essay.md) |
 | 2018 | General Studies Paper IV (Ethics, Integrity, Aptitude) | 75 | 41 | [ethics.md](upsc-cse/2018/ethics.md) |
 | 2018 | General Studies (GS-I to GS-IV common set) | 159 | 46 | [general-studies.md](upsc-cse/2018/general-studies.md) |
+| 2018 | Management | 3 | 3 | [management.md](upsc-cse/2018/management.md) |
 | 2018 | Sociology | 7 | 2 | [sociology.md](upsc-cse/2018/sociology.md) |
 | 2019 | Essay Paper | 72 | 45 | [essay.md](upsc-cse/2019/essay.md) |
 | 2019 | General Studies Paper IV (Ethics, Integrity, Aptitude) | 113 | 78 | [ethics.md](upsc-cse/2019/ethics.md) |
@@ -43,11 +46,14 @@ A citation index of **publicly posted topper answer copies** for the UPSC Civil 
 | 2020 | Essay Paper | 33 | 24 | [essay.md](upsc-cse/2020/essay.md) |
 | 2020 | General Studies Paper IV (Ethics, Integrity, Aptitude) | 82 | 53 | [ethics.md](upsc-cse/2020/ethics.md) |
 | 2020 | General Studies (GS-I to GS-IV common set) | 145 | 55 | [general-studies.md](upsc-cse/2020/general-studies.md) |
+| 2020 | Management | 1 | 1 | [management.md](upsc-cse/2020/management.md) |
 | 2020 | Medical Science | 10 | 4 | [medical-science.md](upsc-cse/2020/medical-science.md) |
+| 2020 | Physics | 3 | 1 | [physics.md](upsc-cse/2020/physics.md) |
 | 2020 | Sociology | 15 | 5 | [sociology.md](upsc-cse/2020/sociology.md) |
 | 2021 | Essay Paper | 17 | 10 | [essay.md](upsc-cse/2021/essay.md) |
 | 2021 | General Studies Paper IV (Ethics, Integrity, Aptitude) | 82 | 45 | [ethics.md](upsc-cse/2021/ethics.md) |
 | 2021 | General Studies (GS-I to GS-IV common set) | 137 | 45 | [general-studies.md](upsc-cse/2021/general-studies.md) |
+| 2021 | Management | 2 | 1 | [management.md](upsc-cse/2021/management.md) |
 | 2021 | Medical Science | 6 | 2 | [medical-science.md](upsc-cse/2021/medical-science.md) |
 | 2021 | Sociology | 28 | 8 | [sociology.md](upsc-cse/2021/sociology.md) |
 | 2022 | Essay Paper | 123 | 53 | [essay.md](upsc-cse/2022/essay.md) |
@@ -61,6 +67,7 @@ A citation index of **publicly posted topper answer copies** for the UPSC Civil 
 | 2023 | General Studies (GS-I to GS-IV common set) | 338 | 111 | [general-studies.md](upsc-cse/2023/general-studies.md) |
 | 2023 | Law | 1 | 1 | [law.md](upsc-cse/2023/law.md) |
 | 2023 | Medical Science | 8 | 4 | [medical-science.md](upsc-cse/2023/medical-science.md) |
+| 2023 | Physics | 6 | 1 | [physics.md](upsc-cse/2023/physics.md) |
 | 2023 | Sociology | 52 | 16 | [sociology.md](upsc-cse/2023/sociology.md) |
 | 2024 | Economics | 10 | 2 | [economics.md](upsc-cse/2024/economics.md) |
 | 2024 | Essay Paper | 76 | 70 | [essay.md](upsc-cse/2024/essay.md) |
@@ -68,6 +75,7 @@ A citation index of **publicly posted topper answer copies** for the UPSC Civil 
 | 2024 | General Studies (GS-I to GS-IV common set) | 245 | 92 | [general-studies.md](upsc-cse/2024/general-studies.md) |
 | 2024 | Law | 2 | 2 | [law.md](upsc-cse/2024/law.md) |
 | 2024 | Medical Science | 5 | 3 | [medical-science.md](upsc-cse/2024/medical-science.md) |
+| 2024 | Physics | 8 | 2 | [physics.md](upsc-cse/2024/physics.md) |
 | 2024 | Sociology | 34 | 6 | [sociology.md](upsc-cse/2024/sociology.md) |
 | 2025 | Anthropology | 4 | 2 | [anthropology.md](upsc-cse/2025/anthropology.md) |
 | 2025 | Essay Paper | 79 | 68 | [essay.md](upsc-cse/2025/essay.md) |
