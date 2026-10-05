@@ -19,12 +19,12 @@
     },
     "rubric": {
       "path": ".air10/startup_data/rubric.jsonl",
-      "sha256": "a336a98668b5ebf443837d3ac411ecd95da01944422e1694218c01d4f78d38c7"
+      "sha256": "8368c3418f09f4f19ffd88c9445e7dba4bacda150aa8baf501ecd32d7c7b2a6d"
     }
   },
   "files": {
     "README.md": {
-      "sha256": "f7416164569b7050a3b7ec30e45d68c47c3a9fb3e65bea7b177db7a44adb6043",
+      "sha256": "aa8915ba261e97120946ad691bcbf5b078f7e284b2818e685893b0626aa7740b",
       "sources": [
         "readme_index"
       ]
@@ -55,7 +55,7 @@
       ]
     },
     "strategy/upsc-cse/answer-writing.md": {
-      "sha256": "77a3f0f582ebfa42a756ee77cda26efa3d0ed355bb23c07a05d5ef295672f681",
+      "sha256": "39c599801967e7583e2b7b579f8c8209015e92696336761b0c14d5d056aeba8d",
       "sources": [
         "rubric_dataset"
       ]
