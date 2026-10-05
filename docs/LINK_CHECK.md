@@ -33,5 +33,10 @@ Notes:
 - `www.upsc.gov.in/examinations/` (no sub-path) returns 404, so it is not
   linked; the README links the verified `previous-question-papers` archive and
   the home page instead.
+- `upsc.gov.in` (apex, no `www`) timed out (`000`) on all 3 attempts from the
+  GitHub runner on 2026-10-05 (run 37343683487) while `https://www.upsc.gov.in/`
+  answered `200` in the same run, so the README now links the canonical `www`
+  host only. The apex is the same official site; it is just unreachable from
+  the runner network.
 - The repo's own future clone URL (`.../awesome-upsc-cse`) 404s because this
   repo is local-only (not pushed); it is deliberately not linked from the README.

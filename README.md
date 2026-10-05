@@ -26,7 +26,7 @@ site's examination section from the home page.
 
 | What | Official link |
 |------|---------------|
-| **UPSC home** (notifications, syllabus annexures) | [upsc.gov.in](https://upsc.gov.in) → [www.upsc.gov.in](https://www.upsc.gov.in/) |
+| **UPSC home** (notifications, syllabus annexures) | [www.upsc.gov.in](https://www.upsc.gov.in/) |
 | **Previous question papers** (CSE Prelims + Mains) | [Previous Question Papers](https://www.upsc.gov.in/examinations/previous-question-papers) → "Civil Services Examination" |
 | **Per-exam page (hub)** | [upsc-cse.md](https://github.com/lakhidas168-ship-it/awesome-indian-exams/blob/main/awesome-indian-exams/exams/upsc/upsc-cse.md) |
 
