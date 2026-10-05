@@ -10,20 +10,9 @@ fail=0
 echo "== link check =="
 urls=$(grep -rhoE 'https://[^)>"'"'"' ]+' "$REPO/README.md" "$REPO/resources" | sort -u)
 n=0; ok=0
-# Government hosts (ncert.nic.in, upsc.gov.in, pib.gov.in) drop connections from CI runners often enough that a
-# single attempt reports a transient 000 and turns the whole run red (run 37332773979, 2026-10-05). Retry a failed
-# URL up to 3 times with a short pause before calling it dead; a genuinely dead link still fails all 3.
 for u in $urls; do
   n=$((n+1))
-  code=""
-  for attempt in 1 2 3; do
-    code=$(curl -s -o /dev/null -w '%{http_code}' -m 25 -L "$u" || true)
-    case "$code" in
-      2*|3*) break ;;
-    esac
-    echo "  attempt $attempt: $code (retrying)"
-    sleep 3
-  done
+  code=$(curl -s -o /dev/null -w '%{http_code}' -m 25 -L "$u" || true)
   echo "$code $u"
   case "$code" in
     2*|3*) ok=$((ok+1)) ;;
