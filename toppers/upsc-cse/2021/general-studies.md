@@ -147,4 +147,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 136 | Nikhil Mahajan | 80 | English | [booklet #1772](https://cdn.visionias.in/toppersanswerbooklet/91282-9235_1399_nikhil-mahajan_ran_80-cropped.pdf) |
 | 137 | Nikhil Mahajan | 80 | English | [booklet #1773](https://cdn.visionias.in/toppersanswerbooklet/a15c7-9235_1407_nikhil-mahajan_ran_80.pdf) |
 
-_Citation rows: 137. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 137. Generated 2026-10-06 from the public topper answer-booklet manifest (metadata only)._

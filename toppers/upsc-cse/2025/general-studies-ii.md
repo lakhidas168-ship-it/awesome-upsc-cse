@@ -71,4 +71,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 60 | Surya Godara | 343 | Hindi | [booklet #3881](https://cdn.visionias.in/toppersanswerbooklet/8cc08-125093_1835_surya_godara_rank_343.pdf) |
 | 61 | Vivek Yadav | 487 | Hindi | [booklet #3885](https://cdn.visionias.in/toppersanswerbooklet/19433-916209_4511_vivek_yadav_rank_487.pdf) |
 
-_Citation rows: 61. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 61. Generated 2026-10-06 from the public topper answer-booklet manifest (metadata only)._

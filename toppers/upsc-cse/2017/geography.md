@@ -14,4 +14,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 3 | Sambit Mishra | 51 | English | [booklet #418](https://cdn.visionias.in/toppersanswerbooklet/28070_953_Sambit_Mishra_Rank_51.pdf) |
 | 4 | Adityavikram | 60 | English | [booklet #419](https://cdn.visionias.in/toppersanswerbooklet/14075_779_Adityavikram_Rank_60.pdf) |
 
-_Citation rows: 4. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 4. Generated 2026-10-06 from the public topper answer-booklet manifest (metadata only)._

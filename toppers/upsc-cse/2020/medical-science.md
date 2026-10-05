@@ -20,4 +20,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 9 | NITISH GUPTA | 287 | English | [booklet #reg_8106](https://drive.google.com/file/d/105lzGpTxlaT04AD6e7xHbS6U0aaSOh1i/view?usp=share_link) |
 | 10 | NITISH GUPTA | 287 | English | [booklet #reg_8107](https://drive.google.com/file/d/1er1cs6rTEKy0DqyP72PcHtAtBBqtNMi7/view?usp=share_link) |
 
-_Citation rows: 10. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 10. Generated 2026-10-06 from the public topper answer-booklet manifest (metadata only)._

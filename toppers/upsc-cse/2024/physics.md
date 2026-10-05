@@ -18,4 +18,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 7 | Vibhor Bhardwaj | 19 | English | [booklet #reg_8833](https://diasindia.com/pdf/new/VIBHOR%20BHARDWAJ%20PH%20TS-5%202024.pdf) |
 | 8 | Vibhor Bhardwaj | 19 | English | [booklet #reg_8834](https://diasindia.com/pdf/new/Vibhor%20full%20test.pdf) |
 
-_Citation rows: 8. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 8. Generated 2026-10-06 from the public topper answer-booklet manifest (metadata only)._

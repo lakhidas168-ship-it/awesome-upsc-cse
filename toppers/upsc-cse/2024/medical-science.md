@@ -15,4 +15,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 4 | SHIVRAJ GANGAWAL | 788 | English | [booklet #reg_8334](https://drive.google.com/file/d/1x2j0wCOZA48AtSigGBcz5XhVtUzQBqYH/view?usp=sharing) |
 | 5 | SHIVRAJ GANGAWAL | 788 | English | [booklet #reg_8335](https://drive.google.com/file/d/1eBdGvWlOcJce7Ix7U3OLzIsbDElaeFt3/view?usp=sharing) |
 
-_Citation rows: 5. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 5. Generated 2026-10-06 from the public topper answer-booklet manifest (metadata only)._

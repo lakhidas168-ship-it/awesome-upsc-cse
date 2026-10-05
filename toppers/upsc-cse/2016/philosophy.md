@@ -13,4 +13,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 2 | Anita Yadav | 350 | English | [booklet #216](https://cdn.visionias.in/toppersanswerbooklet/16663_786_Anita_Rank_350.pdf) |
 | 3 | Anita Yadav | 350 | English | [booklet #217](https://cdn.visionias.in/toppersanswerbooklet/16663_783_Anita_Rank_350.pdf) |
 
-_Citation rows: 3. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 3. Generated 2026-10-06 from the public topper answer-booklet manifest (metadata only)._

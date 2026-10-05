@@ -1,13 +1,13 @@
 # Answer-writing — what a full-score UPSC Mains answer covers
 
-Our own distilled note, aggregated from **779 grading rubrics** we built for verified official Mains questions (GS1–GS4 and Essay). It states what the rubrics demand of an answer; it does not reproduce any topper's answer text.
+Our own distilled note, aggregated from **803 grading rubrics** we built for verified official Mains questions (GS1–GS4 and Essay). It states what the rubrics demand of an answer; it does not reproduce any topper's answer text.
 
 ## Coverage of the rubric set
 
 | Paper | Rubrics |
 |-------|--------:|
 | GS2 | 218 |
-| GS4 | 165 |
+| GS4 | 189 |
 | GS3 | 156 |
 | GS1 | 147 |
 | ESSAY | 92 |
@@ -22,8 +22,8 @@ Each rubric scores an answer on a set of *dimensions* (one distinct aspect per d
 | GS1 | 147 | 5 | 6 | 14 |
 | GS2 | 218 | 5 | 6 | 16 |
 | GS3 | 156 | 4 | 6 | 8 |
-| GS4 | 162 | 4 | 6 | 15 |
-| **all** | **776** | **4** | **6** | **16** |
+| GS4 | 186 | 4 | 6 | 15 |
+| **all** | **800** | **4** | **6** | **16** |
 
 ## Structure a full-score answer needs
 
@@ -44,4 +44,4 @@ Across the whole rubric set a top answer is scored on **4–16 distinct dimensio
 
 Attempt the official Mains question paper for a topic, then check your answer against the dimensions above before moving on. A per-question rubric exists for every question in the verified set; the aggregated pattern is what is published here.
 
-_Generated 2026-10-05 from 779 rubrics (AIR10 answer-evaluator). Aggregates only._
+_Generated 2026-10-06 from 803 rubrics (AIR10 answer-evaluator). Aggregates only._

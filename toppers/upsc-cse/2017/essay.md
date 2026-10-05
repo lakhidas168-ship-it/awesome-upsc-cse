@@ -38,4 +38,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 27 | Prateek Jain | 86 | English | [booklet #385](https://cdn.visionias.in/toppersanswerbooklet/28133_930_Prateek_Rank_86.pdf) |
 | 28 | Prateek Jain | 86 | English | [booklet #386](https://cdn.visionias.in/toppersanswerbooklet/28133_931_Prateek_Rank_86.pdf) |
 
-_Citation rows: 28. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 28. Generated 2026-10-06 from the public topper answer-booklet manifest (metadata only)._

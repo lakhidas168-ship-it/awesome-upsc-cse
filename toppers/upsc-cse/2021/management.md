@@ -12,4 +12,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 1 | Pankaj Yadav | 107 | English | [booklet #reg_9046](https://drive.google.com/file/d/1n0UcuU_0PTh-mnZslBODJkn8oYqeQ4Yw/view?usp=drivesdk) |
 | 2 | Pankaj Yadav | 107 | English | [booklet #reg_9047](https://drive.google.com/file/d/1mzFZZd9T3GtysEyTQJ142LF9VBrK9rlO/view?usp=drivesdk) |
 
-_Citation rows: 2. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 2. Generated 2026-10-06 from the public topper answer-booklet manifest (metadata only)._

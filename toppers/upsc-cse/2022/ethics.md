@@ -212,4 +212,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 201 | Amar Meena | 830 | Hindi | [booklet #2366](https://cdn.visionias.in/toppersanswerbooklet/8cfdf-27244_1516_amar-meena_rank-830.pdf) |
 | 202 | Dinesh Kumar | 889 | Hindi | [booklet #2367](https://cdn.visionias.in/toppersanswerbooklet/7cc27-58740_1837_dinesh-kumar_rank-889.pdf) |
 
-_Citation rows: 202. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 202. Generated 2026-10-06 from the public topper answer-booklet manifest (metadata only)._

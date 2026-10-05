@@ -82,4 +82,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 71 | Ravi Kumar Sihag | 317 | Hindi | [booklet #957](https://cdn.visionias.in/toppersanswerbooklet/91a18-168117_1252_ravi-kumar-sihag_rank_317.pdf) |
 | 72 | Ravi Kumar Sihag | 317 | Hindi | [booklet #958](https://cdn.visionias.in/toppersanswerbooklet/5d1db-168117_1253_ravi-kumar-sihag_rank_317.pdf) |
 
-_Citation rows: 72. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 72. Generated 2026-10-06 from the public topper answer-booklet manifest (metadata only)._

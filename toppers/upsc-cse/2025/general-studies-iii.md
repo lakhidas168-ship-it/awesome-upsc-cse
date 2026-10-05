@@ -74,4 +74,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 63 | Vivek Yadav | 487 | Hindi | [booklet #3886](https://cdn.visionias.in/toppersanswerbooklet/59ddb-916209_4512_vivek_yadav_rank_487.pdf) |
 | 64 | Praveen Ratnoo | 499 | Hindi | [booklet #3888](https://cdn.visionias.in/toppersanswerbooklet/a0cc6-46120289_4512_praveen_ratnoo_rank_499.pdf) |
 
-_Citation rows: 64. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 64. Generated 2026-10-06 from the public topper answer-booklet manifest (metadata only)._

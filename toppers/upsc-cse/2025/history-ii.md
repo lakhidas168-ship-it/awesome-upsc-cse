@@ -11,4 +11,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 |---|--------|------|--------|------------------|
 | 1 | Samiksha Dwivedi | 56 | English | [booklet #3871](https://cdn.visionias.in/toppersanswerbooklet/6dfa1-01430179_4516_samiksha_dwivedi_rank_56.pdf) |
 
-_Citation rows: 1. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 1. Generated 2026-10-06 from the public topper answer-booklet manifest (metadata only)._
