@@ -29,4 +29,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 18 | Fatima | 62 | English | [booklet #414](https://cdn.visionias.in/toppersanswerbooklet/18610_943_Fatima_Rank_62.pdf) |
 | 19 | Benson | 90 | English | [booklet #415](https://cdn.visionias.in/toppersanswerbooklet/11995_820_Benson_Rank_90.pdf) |
 
-_Citation rows: 19. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 19. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._

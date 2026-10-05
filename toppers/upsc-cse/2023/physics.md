@@ -16,4 +16,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 5 | Aniket Dnyaneshwar Hirde | 81 | English | [booklet #reg_8839](https://diasindia.com/pdf/new/ANIKET%20HIRDE%20PH-TEST-9-145.pdf) |
 | 6 | Aniket Dnyaneshwar Hirde | 81 | English | [booklet #reg_8840](https://diasindia.com/pdf/new/ANIKET%20HIRDE-PH-TEST-10-149.pdf) |
 
-_Citation rows: 6. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 6. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._

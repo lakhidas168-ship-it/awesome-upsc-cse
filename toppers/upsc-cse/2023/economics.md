@@ -34,4 +34,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 23 | MOHD ASHFAQ | 770 | English | [booklet #reg_8331](https://next-ias-appsquadz.s3.ap-south-1.amazonaws.com/file_library/pdf/original/05e79e85886db31c562f8e2fb26b6867/9/eco_test_7-mohd-ashfaq-2023-uc.pdf) |
 | 24 | MOHD ASHFAQ | 770 | English | [booklet #reg_8332](https://next-ias-appsquadz.s3.ap-south-1.amazonaws.com/file_library/pdf/original/05e79e85886db31c562f8e2fb26b6867/7/eco-paper-2-test-8_mohd-ashfaq-2023-uc.pdf) |
 
-_Citation rows: 24. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 24. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._

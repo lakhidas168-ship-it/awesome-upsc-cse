@@ -150,4 +150,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 139 | SANDEEP KUMAR MEENA | 952 | Hindi | [booklet #2837](https://cdn.visionias.in/toppersanswerbooklet/5cf2c-473817_1252_sandeep_kumar_meena_rank_952.pdf) |
 | 140 | NEERAJ SONGARA | 964 | Hindi | [booklet #2838](https://cdn.visionias.in/toppersanswerbooklet/06a09-1447625_2488_neeraj_songara_rank_964.pdf) |
 
-_Citation rows: 140. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 140. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._

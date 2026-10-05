@@ -13,4 +13,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 2 | Ayush Sharma | 168 | English | [booklet #reg_9044](https://drive.google.com/file/d/1gTi4lu4OnagOXEL5tVhKHQtGL6zE8fif/view?usp=sharing) |
 | 3 | Lokesh Yadav | 451 | English | [booklet #reg_9042](https://drive.google.com/file/d/1BWujRRIhh2X5T_56yyUG_Epe0xo6FoIB/view?usp=sharing) |
 
-_Citation rows: 3. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 3. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._

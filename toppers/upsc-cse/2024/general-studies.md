@@ -255,4 +255,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 244 | Banna Venkatesh | 2423 | English | [booklet #3215](https://cdn.visionias.in/toppersanswerbooklet/24f74-0780881_2423_banna_venkatesh_rank_15.pdf) |
 | 245 | Prastuti Upadhaya | 2930 | English | [booklet #3484](https://cdn.visionias.in/toppersanswerbooklet/20b30-1275069_2930_prastuti_upadhaya_rank_84.pdf) |
 
-_Citation rows: 245. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 245. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._

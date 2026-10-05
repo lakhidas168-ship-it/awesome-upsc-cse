@@ -12,4 +12,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 1 | Avinash V | 31 | English | [booklet #reg_7799](https://www.defactolaw.in/_files/ugd/f721f3_ca50621479d2497284794ab0fd448655.pdf) |
 | 2 | Bhagat Raj | 245 | English | [booklet #reg_8068](https://www.defactolaw.in/_files/ugd/f721f3_deb8dcce73e946ddad3442a1b9476d88.pdf) |
 
-_Citation rows: 2. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 2. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._

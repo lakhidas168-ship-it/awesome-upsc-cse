@@ -18,4 +18,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 7 | PULKIT BAJAJ | 765 | English | [booklet #reg_8324](https://drive.google.com/file/d/1BSD81qSJmM7nECtROgiKDM2jVe33ta4s/view?usp=drive_link) |
 | 8 | PULKIT BAJAJ | 765 | English | [booklet #reg_8325](https://drive.google.com/file/d/16bhGoUfEds5eLtWFjc-6FTm27Jesrnyd/view?usp=drive_link) |
 
-_Citation rows: 8. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 8. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._

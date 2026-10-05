@@ -189,4 +189,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 178 | NEERAJ SONGARA | 964 | Hindi | [booklet #2876](https://cdn.visionias.in/toppersanswerbooklet/7d977-1447625_2425_neeraj_songara_rank_964.pdf) |
 | 179 | NEERAJ SONGARA | 964 | Hindi | [booklet #2877](https://cdn.visionias.in/toppersanswerbooklet/7564c-1447625_2421_neeraj_songara_rank_964.pdf) |
 
-_Citation rows: 179. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 179. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._

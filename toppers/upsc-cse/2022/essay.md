@@ -133,4 +133,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 122 | Roshan meena | 567 | Hindi | [booklet #2402](https://cdn.visionias.in/toppersanswerbooklet/01ea6-4144_1754_roshan-meena_567.pdf) |
 | 123 | Roshan meena | 567 | Hindi | [booklet #2403](https://cdn.visionias.in/toppersanswerbooklet/df580-4144_1756_roshan-meena_567.pdf) |
 
-_Citation rows: 123. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 123. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._

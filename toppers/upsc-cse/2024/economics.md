@@ -20,4 +20,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 9 | Nesrin P Fasim | 703 | English | [booklet #reg_8305](https://cdnstatic.nextias.com/newuploads/Nextias/2025/6/ECO-T5-NESRIN-P-FASIM-R703-1750226564901.pdf) |
 | 10 | Nesrin P Fasim | 703 | English | [booklet #reg_8306](https://cdnstatic.nextias.com/newuploads/Nextias/2025/6/ECO-T6-NESRIN-P-FASIM-R703-1750226625651.pdf) |
 
-_Citation rows: 10. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 10. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._

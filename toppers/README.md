@@ -93,4 +93,4 @@ A citation index of **publicly posted topper answer copies** for the UPSC Civil 
 | 2025 | Sociology | 31 | 12 | [sociology.md](upsc-cse/2025/sociology.md) |
 | 2026 | *(tracked cycle)* | 0 | 0 | [README.md](upsc-cse/2026/README.md) · UNAVAILABLE |
 
-_Generated 2026-10-04. Rebuilt only when the source manifest changes._
+_Generated 2026-10-05. Rebuilt only when the source manifest changes._

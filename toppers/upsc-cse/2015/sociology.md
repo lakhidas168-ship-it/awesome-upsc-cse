@@ -12,4 +12,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 1 | NARENDRA KUMAR SHAH | 86 | English | [booklet #168](https://cdn.visionias.in/toppersanswerbooklet/86_Narendra%20Kumar%20Shah_5095_647_Sociology.pdf) |
 | 2 | NARENDRA KUMAR SHAH | 86 | English | [booklet #169](https://cdn.visionias.in/toppersanswerbooklet/86_Narendra%20Kumar%20Shah_5095_648_Sociology.pdf) |
 
-_Citation rows: 2. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 2. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._

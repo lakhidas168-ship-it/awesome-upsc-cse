@@ -42,4 +42,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 31 | Himadree Kaushik | 97 | English | [booklet #692](https://cdn.visionias.in/toppersanswerbooklet/dd7f6-10605_1074_himadree_kaushik_rank_97.pdf) |
 | 32 | Himadree Kaushik | 97 | English | [booklet #693](https://cdn.visionias.in/toppersanswerbooklet/9e9a3-10605_1076_himadree_kaushik_rank_97.pdf) |
 
-_Citation rows: 32. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 32. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._

@@ -15,4 +15,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 4 | Rakhi | 65 | English | [booklet #3863](https://cdn.visionias.in/toppersanswerbooklet/d821c-45942651_4518_rakhi_rank_65.pdf) |
 | 5 | Vishwajeet Gupta | 67 | English | [booklet #3865](https://cdn.visionias.in/toppersanswerbooklet/b2f9e-1317840_4518_vishwajeet_gupta_rank_67.pdf) |
 
-_Citation rows: 5. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 5. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._

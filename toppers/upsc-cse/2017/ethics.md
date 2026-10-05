@@ -62,4 +62,4 @@ Metadata-only index: **who wrote the copy, their rank, the medium and where it i
 | 51 | Mourya N | 100 | English | [booklet #383](https://cdn.visionias.in/toppersanswerbooklet/3210_873_Mourya_N_Rank_100.pdf) |
 | 52 | Kanta Jagir | 632 | Hindi | [booklet #446](https://cdn.visionias.in/toppersanswerbooklet/4f2bb-42370_860_kanta_rank_632.pdf) |
 
-_Citation rows: 52. Generated 2026-10-04 from the public topper answer-booklet manifest (metadata only)._
+_Citation rows: 52. Generated 2026-10-05 from the public topper answer-booklet manifest (metadata only)._
